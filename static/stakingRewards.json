@@ -1,0 +1,835 @@
+[
+  {
+    "isActive": true,
+    "name": "Synthetix Network Token",
+    "symbol": "snx",
+    "reward": 51.30147018212984,
+    "spread": 42.5853741640258
+  },
+  {
+    "isActive": true,
+    "name": "Livepeer",
+    "symbol": "lpt",
+    "reward": 34.762591978318305,
+    "spread": 3.8625102198131387
+  },
+  {
+    "isActive": true,
+    "name": "Incognito",
+    "symbol": "prv",
+    "reward": 31.73581081112561,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Elrond",
+    "symbol": "erd",
+    "reward": 29.764538900698934,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Shift",
+    "symbol": "shift",
+    "reward": 26.267762168492894,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Phore",
+    "symbol": "phr",
+    "reward": 24.570831589982667,
+    "spread": 28.880015865986586
+  },
+  {
+    "isActive": true,
+    "name": "Pocket Network",
+    "symbol": "pokt",
+    "reward": 24.36,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Veil",
+    "symbol": "veil",
+    "reward": 23.57916605207266,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "TokenPay",
+    "symbol": "tpay",
+    "reward": 23.058529172418407,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Harmony",
+    "symbol": "one",
+    "reward": 22.2404643340945,
+    "spread": 2.471162703788277
+  },
+  {
+    "isActive": true,
+    "name": "Polkadot",
+    "symbol": "dot",
+    "reward": 20,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Chromia",
+    "symbol": "chr",
+    "reward": 20,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Radium",
+    "symbol": "rads",
+    "reward": 19.85968985214842,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Horizen",
+    "symbol": "zen",
+    "reward": 17.334246216929223,
+    "spread": 3.6396135962493084
+  },
+  {
+    "isActive": true,
+    "name": "Loom Network",
+    "symbol": "loom",
+    "reward": 17,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "SmartCash",
+    "symbol": "smart",
+    "reward": 16.19429505648938,
+    "spread": 14.237229166537421
+  },
+  {
+    "isActive": true,
+    "name": "Loki",
+    "symbol": "loki",
+    "reward": 15.974196525288848,
+    "spread": 1.5974196525288846
+  },
+  {
+    "isActive": true,
+    "name": "Idex",
+    "symbol": "idex",
+    "reward": 15.525009457355276,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Energi",
+    "symbol": "nrg",
+    "reward": 15.229984163222685,
+    "spread": 32.010137591063895
+  },
+  {
+    "isActive": true,
+    "name": "Oasis",
+    "symbol": "oasi",
+    "reward": 15,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "CasperLabs",
+    "symbol": "clx",
+    "reward": 15,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "xDai",
+    "symbol": "stake",
+    "reward": 15,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "ICON",
+    "symbol": "icx",
+    "reward": 13.563595481439306,
+    "spread": 8.437944172636628
+  },
+  {
+    "isActive": true,
+    "name": "Zcoin",
+    "symbol": "xzc",
+    "reward": 13.248650016074532,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Edgeless",
+    "symbol": "edg",
+    "reward": 12.363075826498626,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "V Systems",
+    "symbol": "vsys",
+    "reward": 12.146314981348622,
+    "spread": 3.036578745337156
+  },
+  {
+    "isActive": true,
+    "name": "Terra",
+    "symbol": "luna",
+    "reward": 10.501915885490956,
+    "spread": 1.0501915885490973
+  },
+  {
+    "isActive": true,
+    "name": "IOST",
+    "symbol": "iost",
+    "reward": 10.40340495514502,
+    "spread": 10.40340495514502
+  },
+  {
+    "isActive": true,
+    "name": "Neblio",
+    "symbol": "nebl",
+    "reward": 10,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Deep Onion",
+    "symbol": "onion",
+    "reward": 10,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Zilliqa",
+    "symbol": "zil",
+    "reward": 10,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Fortuna",
+    "symbol": "fota",
+    "reward": 10,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Coda Protocol",
+    "symbol": "coda",
+    "reward": 10,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "NuCypher",
+    "symbol": "nu",
+    "reward": 10,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Solana",
+    "symbol": "sol",
+    "reward": 10,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "NEAR Protocol",
+    "symbol": "near",
+    "reward": 10,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Crypto.com Coin",
+    "symbol": "cro",
+    "reward": 10,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Skale Labs",
+    "symbol": "skale",
+    "reward": 10,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "AVA",
+    "symbol": "ava",
+    "reward": 10,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Matic Network",
+    "symbol": "matic",
+    "reward": 10,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Credits",
+    "symbol": "cs",
+    "reward": 10,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "IRISnet",
+    "symbol": "iris",
+    "reward": 9.99312227523208,
+    "spread": 1.1103469194702313
+  },
+  {
+    "isActive": true,
+    "name": "Ethereum 2.0",
+    "symbol": "eth",
+    "reward": 9.603227839420118,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "OKCash",
+    "symbol": "ok",
+    "reward": 9.360428017433259,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Cosmos",
+    "symbol": "atom",
+    "reward": 9.02839674237064,
+    "spread": 0.7222717393896492
+  },
+  {
+    "isActive": true,
+    "name": "PIVX",
+    "symbol": "pivx",
+    "reward": 8.878350534293519,
+    "spread": 1.2667124407133077
+  },
+  {
+    "isActive": true,
+    "name": "Callisto",
+    "symbol": "clo",
+    "reward": 8.866798176063101,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Neutrino",
+    "symbol": "usdn",
+    "reward": 8.824422338038312,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Ark",
+    "symbol": "ark",
+    "reward": 8.724482675512292,
+    "spread": 0.9693869639458104
+  },
+  {
+    "isActive": true,
+    "name": "Nuls",
+    "symbol": "nuls",
+    "reward": 8.148163699362856,
+    "spread": 0.9053515221514274
+  },
+  {
+    "isActive": true,
+    "name": "Decred",
+    "symbol": "dcr",
+    "reward": 7.989476132169418,
+    "spread": 0.07989476132169493
+  },
+  {
+    "isActive": true,
+    "name": "Wanchain",
+    "symbol": "wan",
+    "reward": 7.830414375948032,
+    "spread": 1.3818378310496522
+  },
+  {
+    "isActive": true,
+    "name": "Alqo",
+    "symbol": "xlq",
+    "reward": 7.548109142510142,
+    "spread": 16.13176261167365
+  },
+  {
+    "isActive": true,
+    "name": "Kava",
+    "symbol": "kava",
+    "reward": 7.270816558976806,
+    "spread": 0.632244918171895
+  },
+  {
+    "isActive": true,
+    "name": "Cardano",
+    "symbol": "ada",
+    "reward": 7.2,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "LTO Network",
+    "symbol": "lto",
+    "reward": 7.15879377031101,
+    "spread": 0.25964536990765374
+  },
+  {
+    "isActive": true,
+    "name": "IoTeX",
+    "symbol": "iotx",
+    "reward": 7.052838324317625,
+    "spread": 2.4383653715830356
+  },
+  {
+    "isActive": true,
+    "name": "RChain",
+    "symbol": "rhoc",
+    "reward": 7,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "SysCoin",
+    "symbol": "sys",
+    "reward": 6.903238909895984,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "NavCoin",
+    "symbol": "nav",
+    "reward": 6.901163745470329,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Bismuth",
+    "symbol": "bis",
+    "reward": 6.7169329069434,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Kusama",
+    "symbol": "ksm",
+    "reward": 6.553337588210062,
+    "spread": 0.7281486209122292
+  },
+  {
+    "isActive": true,
+    "name": "Remme",
+    "symbol": "rem",
+    "reward": 6.552338950442134,
+    "spread": 3.2769003856160692
+  },
+  {
+    "isActive": true,
+    "name": "Tezos",
+    "symbol": "xtz",
+    "reward": 6.249425724192442,
+    "spread": 0.6249425724192434
+  },
+  {
+    "isActive": true,
+    "name": "Qtum",
+    "symbol": "qtum",
+    "reward": 6.118877849447449,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Dash",
+    "symbol": "dash",
+    "reward": 6.112613011396681,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Tael",
+    "symbol": "wabi",
+    "reward": 6,
+    "spread": 3
+  },
+  {
+    "isActive": true,
+    "name": "EmerCoin",
+    "symbol": "emc",
+    "reward": 6,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "CloakCoin",
+    "symbol": "cloak",
+    "reward": 6,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Celo",
+    "symbol": "cgld",
+    "reward": 6,
+    "spread": 9.966276
+  },
+  {
+    "isActive": true,
+    "name": "Aion",
+    "symbol": "aion",
+    "reward": 5.948617406934295,
+    "spread": 0.37969898342133845
+  },
+  {
+    "isActive": true,
+    "name": "Red Pulse",
+    "symbol": "phx",
+    "reward": 5.75,
+    "spread": 5.25
+  },
+  {
+    "isActive": true,
+    "name": "Waves",
+    "symbol": "waves",
+    "reward": 5.6296468591523,
+    "spread": 0.11489075222759837
+  },
+  {
+    "isActive": true,
+    "name": "Algorand",
+    "symbol": "algo",
+    "reward": 5.412009077066087,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Cyber",
+    "symbol": "cyb",
+    "reward": 5.40987508649713,
+    "spread": 0.6010972318330143
+  },
+  {
+    "isActive": true,
+    "name": "Telos",
+    "symbol": "tlos",
+    "reward": 5.3868375129461326,
+    "spread": 8.482225208183802
+  },
+  {
+    "isActive": true,
+    "name": "Trueflip",
+    "symbol": "tfl",
+    "reward": 5.2,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Reddcoin",
+    "symbol": "rdd",
+    "reward": 5.12,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Komodo",
+    "symbol": "kmd",
+    "reward": 5.1,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "TomoChain",
+    "symbol": "tomo",
+    "reward": 5.067539172507259,
+    "spread": 0.6061903418060295
+  },
+  {
+    "isActive": true,
+    "name": "Dfinity",
+    "symbol": "dfn",
+    "reward": 5,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Pikciochain",
+    "symbol": "pkc",
+    "reward": 5,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Nexo",
+    "symbol": "nexo",
+    "reward": 4.8,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Blocknet",
+    "symbol": "block",
+    "reward": 4.7371482796687365,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "NEM",
+    "symbol": "xem",
+    "reward": 4.7053406995132265,
+    "spread": 4.700107485404693
+  },
+  {
+    "isActive": true,
+    "name": "Particl",
+    "symbol": "part",
+    "reward": 4.655259689881586,
+    "spread": 0.3145434431213401
+  },
+  {
+    "isActive": true,
+    "name": "WAX",
+    "symbol": "waxp",
+    "reward": 4.211544566231174,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Tether",
+    "symbol": "usdt",
+    "reward": 4.09005,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "BlackCoin",
+    "symbol": "blk",
+    "reward": 3.7625900596068442,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Tron",
+    "symbol": "trx",
+    "reward": 3.342326943735611,
+    "spread": 0.31740473802102676
+  },
+  {
+    "isActive": true,
+    "name": "Nebulas",
+    "symbol": "nas",
+    "reward": 3,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "TrueUSD",
+    "symbol": "tusd",
+    "reward": 2.9070883108001357,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "HtmlCoin",
+    "symbol": "html",
+    "reward": 2.7813860014228493,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "USD Coin",
+    "symbol": "usdc",
+    "reward": 2.7222630634645584,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "KuCoin Shares",
+    "symbol": "kcs",
+    "reward": 2.681432397984872,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Bitbay",
+    "symbol": "bay",
+    "reward": 2.212082825248335,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Wagerr",
+    "symbol": "wgr",
+    "reward": 2.0565193848209096,
+    "spread": 0.08579588672564498
+  },
+  {
+    "isActive": true,
+    "name": "Zebi",
+    "symbol": "zco",
+    "reward": 2,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Nexus",
+    "symbol": "nxs",
+    "reward": 1.9041784745206987,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Eos",
+    "symbol": "eos",
+    "reward": 1.7906787596538416,
+    "spread": 0.02935162803613456
+  },
+  {
+    "isActive": true,
+    "name": "sUSD",
+    "symbol": "susd",
+    "reward": 1.64385,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Neo",
+    "symbol": "neo",
+    "reward": 1.598308668076113,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Dai",
+    "symbol": "dai",
+    "reward": 1.5350318558617733,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "NXT",
+    "symbol": "nxt",
+    "reward": 1.372108562052097,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "0x",
+    "symbol": "zrx",
+    "reward": 1.2743535620499022,
+    "spread": 2.1530254098137007
+  },
+  {
+    "isActive": true,
+    "name": "VeChain",
+    "symbol": "vet",
+    "reward": 1.0980914247400841,
+    "spread": 0.7625634894028368
+  },
+  {
+    "isActive": true,
+    "name": "Stellar",
+    "symbol": "xlm",
+    "reward": 1,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Nash",
+    "symbol": "nex",
+    "reward": 1,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Theta",
+    "symbol": "theta",
+    "reward": 1,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Enigma",
+    "symbol": "eng",
+    "reward": 1,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Sai",
+    "symbol": "sai",
+    "reward": 0.659423596520374,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Ethereum",
+    "symbol": "eth",
+    "reward": 0.513646181359888,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Augur",
+    "symbol": "rep",
+    "reward": 0.31822140047439706,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Decentraland",
+    "symbol": "mana",
+    "reward": 0.2971,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Bitcoin",
+    "symbol": "btc",
+    "reward": 0.29497425948316913,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Ardor",
+    "symbol": "ardr",
+    "reward": 0.2193253298541683,
+    "spread": 0.02193253298541681
+  },
+  {
+    "isActive": true,
+    "name": "Kyber Network",
+    "symbol": "knc",
+    "reward": 0.04346704199062574,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Basic Attention Token",
+    "symbol": "bat",
+    "reward": 0.021087976666703808,
+    "spread": 0
+  },
+  {
+    "isActive": true,
+    "name": "Lisk",
+    "symbol": "lsk",
+    "reward": -0.6599732504522793,
+    "spread": 1.4925813824644831
+  }
+]

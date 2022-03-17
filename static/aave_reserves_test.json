@@ -1,0 +1,193 @@
+{
+  "data": {
+    "reserves": [
+      {
+        "decimals": 18,
+        "id": "0x0000000000085d4780b73119b644ae5ecd22b376",
+        "isActive": true,
+        "liquidityRate": "33976852535793064127107897",
+        "name": "TrueUSD",
+        "stableBorrowRate": "160558902415682123133707449",
+        "symbol": "TUSD",
+        "totalLiquidity": "964538627631930999907202",
+        "variableBorrowRate": "45873972118766320895344985"
+      },
+      {
+        "decimals": 18,
+        "id": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+        "isActive": true,
+        "liquidityRate": "141694147919184856455009",
+        "name": "Basic Attention Token",
+        "stableBorrowRate": "34452357546422424786054379",
+        "symbol": "BAT",
+        "totalLiquidity": "1847957316494308225984709",
+        "variableBorrowRate": "3561886037137939828843503"
+      },
+      {
+        "decimals": 18,
+        "id": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+        "isActive": true,
+        "liquidityRate": "11813040642528533654085297",
+        "name": "Decentraland MANA",
+        "stableBorrowRate": "72962630277894804231320399",
+        "symbol": "MANA",
+        "totalLiquidity": "3342244045985405504840786",
+        "variableBorrowRate": "34370104222315843385056320"
+      },
+      {
+        "decimals": 18,
+        "id": "0x1985365e9f78359a9b6ad760e32412f4a445e862",
+        "isActive": true,
+        "liquidityRate": "114739855890917310924484",
+        "name": "Reputation",
+        "stableBorrowRate": "34232247612582593876887627",
+        "symbol": "REP",
+        "totalLiquidity": "46450338993803121122945",
+        "variableBorrowRate": "3385798090066075101510101"
+      },
+      {
+        "decimals": 8,
+        "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "isActive": true,
+        "liquidityRate": "300847393268404803156338",
+        "name": "Wrapped BTC",
+        "stableBorrowRate": "36836684657238169577870241",
+        "symbol": "WBTC",
+        "totalLiquidity": "8812668716",
+        "variableBorrowRate": "5469347725790535662296193"
+      },
+      {
+        "decimals": 18,
+        "id": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+        "isActive": true,
+        "liquidityRate": "35047049155472478797327787",
+        "name": "Binance USD",
+        "stableBorrowRate": "130055303556757638027364567",
+        "symbol": "BUSD",
+        "totalLiquidity": "141679489032037173828073",
+        "variableBorrowRate": "47158658159073610864961305"
+      },
+      {
+        "decimals": 18,
+        "id": "0x514910771af9ca656af840dff83e8264ecf986ca",
+        "isActive": true,
+        "liquidityRate": "38921968015393390854664",
+        "name": "ChainLink Token",
+        "stableBorrowRate": "32428298618963518504197887",
+        "symbol": "LINK",
+        "totalLiquidity": "5485945734642260850710459",
+        "variableBorrowRate": "1942638895170814803358309"
+      },
+      {
+        "decimals": 18,
+        "id": "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
+        "isActive": true,
+        "liquidityRate": "14584613336037770030905447",
+        "name": "Synth sUSD",
+        "stableBorrowRate": "113621411081627043205111775",
+        "symbol": "sUSD",
+        "totalLiquidity": "600687103626745240076834",
+        "variableBorrowRate": "32463260309036298058603364"
+      },
+      {
+        "decimals": 18,
+        "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "isActive": true,
+        "liquidityRate": "26785242986878553567981229",
+        "name": "Dai Stablecoin",
+        "stableBorrowRate": "151945263964808654659418014",
+        "symbol": "DAI",
+        "totalLiquidity": "2759849162968600885594157",
+        "variableBorrowRate": "45295394989002704581068129"
+      },
+      {
+        "decimals": 18,
+        "id": "0x80fb784b7ed66730e8b1dbd9820afd29931aab03",
+        "isActive": true,
+        "liquidityRate": "393016654595091020733",
+        "name": "EthLend Token",
+        "stableBorrowRate": "30149506404772061983065167",
+        "symbol": "LEND",
+        "totalLiquidity": "252284739292319568178248934",
+        "variableBorrowRate": "119605123817649586452134"
+      },
+      {
+        "decimals": 18,
+        "id": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+        "isActive": true,
+        "liquidityRate": "7410662948060331502749315",
+        "name": "Maker",
+        "stableBorrowRate": "62248104767422563156624437",
+        "symbol": "MKR",
+        "totalLiquidity": "881811359342843581606",
+        "variableBorrowRate": "25798483813938050525299550"
+      },
+      {
+        "decimals": 6,
+        "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "isActive": true,
+        "liquidityRate": "30002805516246110058344956",
+        "name": "USD//C",
+        "stableBorrowRate": "171458176446168736887176039",
+        "symbol": "USDC",
+        "totalLiquidity": "5738452775524",
+        "variableBorrowRate": "43114544111542184221794010"
+      },
+      {
+        "decimals": 18,
+        "id": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+        "isActive": true,
+        "liquidityRate": "65938591954870478209002473",
+        "name": "Synthetix Network Token",
+        "stableBorrowRate": "71314398098610369249328853",
+        "symbol": "SNX",
+        "totalLiquidity": "413753632278837303133430",
+        "variableBorrowRate": "115577277718332443099194623"
+      },
+      {
+        "decimals": 6,
+        "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "isActive": true,
+        "liquidityRate": "79544988926523879143830531",
+        "name": "Tether USD",
+        "stableBorrowRate": "231569842696262628715123168",
+        "symbol": "USDT",
+        "totalLiquidity": "4433869163857",
+        "variableBorrowRate": "97141535580218857262602640"
+      },
+      {
+        "decimals": 18,
+        "id": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+        "isActive": true,
+        "liquidityRate": "249929295811103081622867",
+        "name": "Kyber Network Crystal",
+        "stableBorrowRate": "36220836091645384399485794",
+        "symbol": "KNC",
+        "totalLiquidity": "2135979166961405413135679",
+        "variableBorrowRate": "4976668873316307519588635"
+      },
+      {
+        "decimals": 18,
+        "id": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+        "isActive": true,
+        "liquidityRate": "7606338381922195790983881",
+        "name": "0x Protocol Token",
+        "stableBorrowRate": "64474134877457325538328559",
+        "symbol": "ZRX",
+        "totalLiquidity": "873793681612437599962532",
+        "variableBorrowRate": "27579307901965860430662847"
+      },
+      {
+        "decimals": 18,
+        "id": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "isActive": true,
+        "liquidityRate": "351139428253482680969647",
+        "name": "Ethereum",
+        "stableBorrowRate": "36880964923551231379282265",
+        "symbol": "ETH",
+        "totalLiquidity": "34416401780796432993285",
+        "variableBorrowRate": "5504771938840985103425812"
+      }
+    ]
+  }
+}

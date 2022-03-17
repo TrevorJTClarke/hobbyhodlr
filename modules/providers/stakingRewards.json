@@ -1,0 +1,2957 @@
+[
+  {
+    "priceUsd": 0.01050442,
+    "isActive": true,
+    "name": "NXT",
+    "symbol": "NXT",
+    "stakingTypes": [
+      {
+        "rewardValue": 1.3765420379213582,
+        "rewardFormula": "U2FsdGVkX1/JMH3Kluye7T7utPSHgmPHR3Oe0qCSdY8LTlgkNlKlXXJCaFHL1/Z1bpYdk9N9euEaRTSf7k+TgjYy4Kla+URXh4oRQ06l+HkffFDZZg44CTvP8lxRNavt",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.04193619,
+    "isActive": true,
+    "name": "Ardor",
+    "symbol": "ARDR",
+    "stakingTypes": [
+      {
+        "rewardValue": 0.22637085662649084,
+        "rewardFormula": "U2FsdGVkX1/L24EzVZiFTeVHhpMgzcfBIb16UhUOMsij7JcS2x9RnOc8IzjW1egrGHpKTVDR8/iVSkEChlojEauxhNdjF6Vh63BYeH3lqABzVdflRyzyXfVQgoMCheMAlK1E5DriOCbyrLxFTNdIno2qoCux5KqkcZSA1n72kWB3kOrzpMfm/8CLcNbkqxVBTzZrJUkLgpb33B5yuYHlX62UEoBWrYgGYrkQRD2aTD4ooaQ2gXMviuVfJ8Ev+T/3",
+        "providerFee": 0
+      },
+      {
+        "rewardValue": 0.20373377096384176,
+        "rewardFormula": "U2FsdGVkX1+Uxkj+RNla5jSisvnwooNiDtOc3UXta9ZHSIVH3Ot8H38twt4AyPGTkOgItMYF3MIA5Ba1ar/cvX3ddd/HbDyKF0wwuHhXCUHW8LvvNWW0/zOxPBRSaumyMVAZQtTpl2SQ1fa9dJEaxTxBIKEmyT8lTH37cmuKnzTAn0MpnW9MG4BnqtLsbTcBt8jQ9Td5zz2BR4v5ale5GvhMssyutzU8OYmHdJFyl7WzVObbPNmkDUus9TKgoiCV",
+        "providerFee": 0.1
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00144265,
+    "isActive": true,
+    "name": "Reddcoin",
+    "symbol": "RDD",
+    "stakingTypes": [
+      {
+        "rewardValue": 5.12,
+        "rewardFormula": "U2FsdGVkX18/zN6DSiaICCLvtqogQaOST+46S/7CHTe5YwParbcU4ExSVigfe+C19bshj0qgOdpFChHdQvJxTzg5nOzohnwwWOQdViNnq1pZIbsSfTAaik1JB2M/NJnQ9bRkMNtNU6OgUhzPEfyVOQ==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.169931,
+    "isActive": true,
+    "name": "Bitbay",
+    "symbol": "BAY",
+    "stakingTypes": [
+      {
+        "rewardValue": 2.239677626921425,
+        "rewardFormula": "U2FsdGVkX19Ar3IMXROXDph4a/OhRQF/VvafbjGmX5YRmzB1zNfPdcDYrhQG49o78XKCWX0XPVSZpovWIO4O24hl8LqliuJcVyLtouDV5OnqmAjZjrQrkKhAaK28pfEo9iuPok7iSFq/ZgzQTMEyukz6Kuux24CrRemZX0J5nRke/zTei2bWM2dm/7VUB50x",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.03935459,
+    "isActive": true,
+    "name": "NEM",
+    "symbol": "XEM",
+    "stakingTypes": [
+      {
+        "rewardValue": 4.7053406995132265,
+        "rewardFormula": "U2FsdGVkX1832giRU+USVIXUa1Jd9pYdYiIUjSf+TMe8DW6ZyEEjIUBQYv7MQsEoiDcKZ5bcq2VzaIy0IPgAJU5F1gzlItCGldx4wuDLE4A=",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 0.005233214108532731,
+        "rewardFormula": "U2FsdGVkX1+qjTfLpzrboXBM526efsYo4DLb17vY1BKsgBJ5fX9pcX1LDGAzuQAoiF2qec520HA9WODHEmqirg==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.0124338,
+    "isActive": false,
+    "name": "KekCoin",
+    "symbol": "KEK",
+    "stakingTypes": [
+      {
+        "rewardValue": 18.46,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.105685,
+    "isActive": true,
+    "name": "NavCoin",
+    "symbol": "NAV",
+    "stakingTypes": [
+      {
+        "rewardValue": 6.88805223776541,
+        "rewardFormula": "U2FsdGVkX18sz+YL0BZ+Wfc4/iEoPkFO7vKMXQCNHtSh+3I+rVqQwZggwTQ2Cxpwo4URJHNik49a7I8jNk4JflxvaePuqUggl8/57ngXa3B9GJu5yCHane1w7UWsu6kFjs6FEG3Mt951Ht1NIClPiAbrPuBnYeH5twqYKeYZQ354dysrGb4wD2zMtncAzjTH",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 1.5,
+    "isActive": true,
+    "name": "Qtum",
+    "symbol": "QTUM",
+    "stakingTypes": [
+      {
+        "rewardValue": 6.118877849447449,
+        "rewardFormula": "U2FsdGVkX1+SIffCmkhPhlsNiPIpqdAPN/Pywb+La5eVnhpJ9cm/dlOZc3rZIBx+IKWPkRzNx6MOyN547YRoxpnMqm3BmdZDB6r0t63xFMl0ZOI89QzMMoWrVKaf5wK8vpSuucV9zM7IUHOvsfZvziHc/DP6Lw4PQ+yASRCRpctD7KfJNJc/6NTQrxGf4y0s",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.052921,
+    "isActive": true,
+    "name": "Cardano",
+    "symbol": "ADA",
+    "stakingTypes": [
+      {
+        "rewardValue": 7.2,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.137288,
+    "isActive": false,
+    "name": "STORJ",
+    "symbol": "STORJ",
+    "stakingTypes": [
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 73.3,
+    "isActive": true,
+    "name": "Dash",
+    "symbol": "DASH",
+    "stakingTypes": [
+      {
+        "rewardValue": 6.112613011589051,
+        "rewardFormula": "U2FsdGVkX19owFJBrLngAwju423bQY2Ua+HcCIRqF2J70Lff6NekVxuPszr960TltCzIrDtVUTeSOaZn//7Fsugx2qrp3Z+KeMrDOgSNFMKDAER2pYdEguW+fZ22KkSJxZLAOY5ctWQQqonETztYLtVn+CXOHIaSEYH2jEzdGmmfBJZBt2AkXsMzamSXU+c6",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.273674,
+    "isActive": true,
+    "name": "PIVX",
+    "symbol": "PIVX",
+    "stakingTypes": [
+      {
+        "rewardValue": 8.878561260742142,
+        "rewardFormula": "U2FsdGVkX1/LYu3UyJz9mYaOJBEhU4X95dkApNbsDCNGrz7YYZtwoqCeEWvt8Tze61awR4FKr/iYv7ELWe26H5jSME+HNBsEUvn9EQ3Xqty2NEw4RGxiz+3aoKXHRhbUwA7qmuEIjP+YiuZlcb9Iyg==",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 8.239468220365985,
+        "rewardFormula": "U2FsdGVkX1/S+C+PnYV66xXc/ZNXoWYMEGIBFuj5FUdkRDl26q7N9Ce1M//1Cb+IJfWUSIQd99Rj7oOHrsdWPXKz7zESbmBXNaIEcRf7FdiAwGAaOACEvsLPD3dCOEEHwVMh5gvJY+zAYAOoAbB9kqPn3JaHQ2EGbK6GkVGhWb3G3mvTHNFORduWCLlF2F6mCDc8SLCcB3MKSgf+t2sllQ==",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 7.611638093580211,
+        "rewardFormula": "U2FsdGVkX19QvaIJbNtdZSN7lYDo1GGYx9iRpQcqfVJ0Ni/4sebptLu5oSFomH9ucY1z+LyMCHEuLL7Vek3Cu+F1o+UO1qlg3hirFdqXD2XEcX/phwWGJJwsN3uvklUG+RBcePBRn/VO6a2Sd6l8MlfJJL/B+Uy8FQ6MDvxX75LsaPuvQGixGorEJ9VPQ/DIRpEAx2PWTv0z+Ic+NOfGug==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00437235,
+    "isActive": false,
+    "name": "BitSend",
+    "symbol": "BSD",
+    "stakingTypes": [
+      {
+        "rewardValue": 51.6,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.02531506,
+    "isActive": true,
+    "name": "SysCoin",
+    "symbol": "SYS",
+    "stakingTypes": [
+      {
+        "rewardValue": 6.893092062341527,
+        "rewardFormula": "U2FsdGVkX19mTEA2bRyRv5jX80BcHHcshZKl9g/CVg25ddTBGDDuxPaqNRj8Eve2KpvrL5CPLbuNJu9uLf2auoXn1BhR2m4RgILsQ/ERDWaqY/Kyb1JGFA/EYrcbHdDTC66s3pQAbliKd7oshKrh6iXzTIYojoCAIPVG01a6TtE=",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.01853327,
+    "isActive": true,
+    "name": "OKCash",
+    "symbol": "OK",
+    "stakingTypes": [
+      {
+        "rewardValue": 9.495446636142809,
+        "rewardFormula": "U2FsdGVkX19BydxFrWK767PvfU7hgy/Qe7uSmHY6QVcW/2elrw6/Ro71i0tGVpPWKWTVqJP9H7/LiF5N0AC+PNjuiYTj4lZd386tYyaa0pi2hmBhQ9fSSreLKUsORElYKwrgbz8gOFXVO9d2OFb2f7+w6u8ZUTAST+2azCY3VKY+lpgFWDpvz+K6ZSPebXANfh+5Zr8B5ZRiFCUtIEl1S9vWucB1M1auK0im7ZK9/88zydkk9QdlFiKq0rPaylOs3DwylDDYpDxd30u509kPnZnPkPai9PGwrSeleLuBlAF2nFYt1gHLfAnkkHYXL7biPq/sxStY/Wn5PL3P+E5gRCpAxDvH2+2SSiCNOc/R9HE=",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.303822,
+    "isActive": false,
+    "name": "Stratis",
+    "symbol": "STRAT",
+    "stakingTypes": [
+      {
+        "rewardValue": 1.46,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 13.27,
+    "isActive": true,
+    "name": "Decred",
+    "symbol": "DCR",
+    "stakingTypes": [
+      {
+        "rewardValue": 8.00839997075241,
+        "rewardFormula": "U2FsdGVkX1+0KaeRL8m46ELx62qGjhsq4jRHZz1Bh+afJMU0r0/n8zRbA5AGMVHTlC8SfXQCVD9N23jsseXv+2qvOK4IYuISyAvKHqgkKx7UoXt6UPmQdmW4AmwBFwX8pFlBflUyGrmx2auyuMWFRZ41yCycpk7b1+TVcIOD8eMnZChRU3G8gouLv2fBGuURa9ypBStcePbwz7s7OMq3FvNJdgivpog0f4vlFSCvH8napYEtuCHUnbAzyXLJMyfEDi5z9vmmOKVFQ7anQrCVgDGw9UYQB3jjxQiT5BaTdLWUPlYv43/fluREMQ+Y6wy1",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 7.928315971044888,
+        "rewardFormula": "U2FsdGVkX18vm7ZCux7zh5dZIu5TPvCanm3POWekO7gl472uiWToLXyGbWbE5Ii2uCbKjzCYREmIoPK8mWeco+3rsjZn6oHq16OxfHWTBe++zvjGm1EvjpUc1MC4HaY/CE+7NAV+E6FCiH5Vr60KWcpojWtb99BcrXV0EAwTwUpGCx5uxE6yjbIDul8WKkG0e/xXR/h5LvE9ri01fjHhi1velVmkHxuBMMODmv5daBkjzdXEXstlr2VcALaNsZiX1KyaL9KasP7H5rRsudi8c2EeOY10hR8xv3io4JqrWa5ygHxhYYJYEPson+R56yO6",
+        "providerFee": 0.01
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.0187223,
+    "isActive": false,
+    "name": "ChainCoin",
+    "symbol": "CHC",
+    "stakingTypes": [
+      {
+        "rewardValue": 47.9,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.205773,
+    "isActive": true,
+    "name": "Ark",
+    "symbol": "ARK",
+    "stakingTypes": [
+      {
+        "rewardValue": 8.725956948826793,
+        "rewardFormula": "U2FsdGVkX181oQCTx52PhYdOawenmvs06Uj97cr68zqoCMS23HBprQrD5cEBZlmmTh4EDAfAYx9O0FiNYj/+bJz87BXj0sYCy5ozvwMu2RjCbF0z8xx0p3hnSA6YiBJXC5LDnHRDmslAv9GLayzOd7U/rcS1Odm1crDsc3NGzXY=",
+        "providerFee": 0.1
+      },
+      {
+        "rewardValue": 9.695507720918659,
+        "rewardFormula": "U2FsdGVkX1+f03+gzJK8F5qwmW8dkTXCOPN/RemG+nZjrF1iIh032RiB4UlPfzf1/k6Ifc9ggt2FBAh85OCTpGiMfm0W4W8rouy4ikTJZLCGneka1XVBltru6BdMgVpOcy/rle1T7eVxkLDY4RDo2CaM8ml35NFD0JQW/l8MLcg=",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.03447031,
+    "isActive": true,
+    "name": "Shift",
+    "symbol": "SHIFT",
+    "stakingTypes": [
+      {
+        "rewardValue": 26.269591356350308,
+        "rewardFormula": "U2FsdGVkX19GW1IfXa/+dK1XSI7I9/eFyfzjdTDij2d0WKgodkywyd4Y1WZJU+/5XOO72LMfe61iqi+7DpE4w2Iu95jlNvY8HvMeXOA5czNn+yMSF/KXkVyYsJ26XYEDLy0jMzBHdsI3wfVVPJqcOvjmrUvPRizSPCqNWOkWN4Q3N/RN/DFLr5YYYhPXwUvg",
+        "providerFee": 0.1
+      }
+    ]
+  },
+  {
+    "priceUsd": 1.11,
+    "isActive": true,
+    "name": "Lisk",
+    "symbol": "LSK",
+    "stakingTypes": [
+      {
+        "rewardValue": -0.6559642155105582,
+        "rewardFormula": "U2FsdGVkX180TWozP+O+RXWNWW/5foCmWOhkttAtVmvGzBx7QqV0iQZEK6B00pmkMzdWqc3OaMBDMOqHBjjkfL40qd2+J9nnedD5SbQgZV+DNxGNKCNJInQXyY0thbAEII25136qmzzq5+GxDI5tegmRhZOZSttEBOWeotNXlfEdicpm/qZDgdpWjFMcVhkQNHth2Cuyq1AgkYR5AHq/IKPjWOTmb7khzlyMPwPl0ohGY9kD9Dn/0NiFriGVhsr+lGOOo2ZJx7gaUZb5jhc92AIrp0bU4v1uv3+XFuPUT5oHQU27H+7ws9GQhV5WVXDrm2RIo4Y6KykFMPClgardZKfyl/9yAOwq2/lmurtRfyew2ml/xOXQ4KtsTly4M65KWNSqBEQIL3BrLDJ1qkNZQdBAJqKbcefsjAHNbapxHh2gs5VyUySwxKBEXeys0wgIaE81PfaQNFg8AhDRdAs4pibv+uj9KJvVt5qp9w09+CqghB/K1YTrUvzWv37yudTqVNtJCpLxZemFKgNZ4ixaWd2WsKxbnyYHj/uflApmAPY=",
+        "providerFee": 0.6934
+      },
+      {
+        "rewardValue": -2.1394788503279782,
+        "rewardFormula": "U2FsdGVkX19h0tHQ0BqpqxulMCQtAZL5bsyBgiS39xgzR2OdNj2VMlSsOOn1gtndCw3/fbozn78yT4818l8npwZW8hriBnIyy1ITuoX996pLt+Gun8AO5dHceaMW8qL19ku1u/xrtbCi8aGo4ANi8FZ6oAI2OVKaBdN5bFrepaubBfpH6lTLtDrU3mFSb9QUAhYm1RPpQxdCuVceYSSvxpWT4HhB5E+0lLzc5b2dFFMSKHxUBSGlpiB/Slkt7jQot5gI+3fjQXK56kmrkGnM/ptg901MrmD5ctn7ecDVWnW/r4PF4tV26b8Jq9OTBiovO76zEIvFJ518MRGWOLtVIEM7JdhPby9rvx9axFpC8dCnrwoEvooLYTlZ9Gr/HcxJpdOmpAteAfeBpYFs9G64SI0iaDw1Z9376GSCb0EeTepWP3u0E4nPsHZMOj104CiJvGD9LwiaWhq+IP0IIMjmxc31cVQyjSgyhY2UOftdpe7TlV8rG5HlhReLQ4lVjXJxhxiAs2Pf71RCoFkaDYqbWBSe7VIhBv9PiyHoc6XSz/qPBy/8p+J5UZFCnFkq1BG4",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00785983,
+    "isActive": false,
+    "name": "Rise",
+    "symbol": "RISE",
+    "stakingTypes": [
+      {
+        "rewardValue": 12,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.0181669,
+    "isActive": false,
+    "name": "BitShares",
+    "symbol": "BTS",
+    "stakingTypes": [
+      {
+        "rewardValue": 1,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.03626245,
+    "isActive": true,
+    "name": "BlackCoin",
+    "symbol": "BLK",
+    "stakingTypes": [
+      {
+        "rewardValue": 3.806755157052914,
+        "rewardFormula": "U2FsdGVkX19lCfPnq/5u42vcf2kw8pcs6zSOInZlIxSpKQLlWkUZSS4L0kqNJ55MXO35FcwohCNQSXZxvYwr+t5CRJ6FXriOxlgyIN9kPH/Udj6mfKsjpAUJzx0PuTjT2peip+WfsKj0WHZBDZXd6ejeGT7kDkQfBA276XJKt+W5sBOQuC/b4r1cHdrWJpoA",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.429113,
+    "isActive": true,
+    "name": "Neblio",
+    "symbol": "NEBL",
+    "stakingTypes": [
+      {
+        "rewardValue": 10,
+        "rewardFormula": "U2FsdGVkX1+yVxfaYP4nnJTZ6lxcuk79WKepmP9FcsH9qV1F7i/zIbfY7rCYjotmVNYpR6/6GYkJqv0WQb9kQwMbVoBtJASTLrAt7QDt+6W6/AytjntTmli2r7vWBP/k",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 5.53,
+    "isActive": true,
+    "name": "Horizen",
+    "symbol": "ZEN",
+    "stakingTypes": [
+      {
+        "rewardValue": 17.287790398118798,
+        "rewardFormula": "U2FsdGVkX1+TdJsdMmntiHD3TdZFCIblp32rn0PjtUZCsu8ZtXWZdrqfGdU6N5xKeRouNOb0MU2Rajz7aUlobYM+AIAb1ydAVbURjD8yJ7w7lm1soyAX442bC1+Kk13Xdsc+O0BHP01oYJIEinfhOQ==",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 13.676814987311731,
+        "rewardFormula": "U2FsdGVkX19LR3rmVKU9L6Lo+ESaQU5K923mpqpLqPQXiE0QQ9wZ1T/woZIKvubVW+kY9Pr3ZYvaAcsKEsN9LsLWXWS4LNIKti6Ftac+qGTTlcCFO3SStel+clGaNxH7+H1sPwLH8TPIKS6qC6BAgg==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00190296,
+    "isActive": false,
+    "name": "BOScoin",
+    "symbol": "BOS",
+    "stakingTypes": [
+      {
+        "rewardValue": 32.47,
+        "rewardFormula": null,
+        "providerFee": null
+      },
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      },
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.02496884,
+    "isActive": true,
+    "name": "Wagerr",
+    "symbol": "WGR",
+    "stakingTypes": [
+      {
+        "rewardValue": 2.0492525322013186,
+        "rewardFormula": "U2FsdGVkX1+i4eSrUYRt1JgdxVU7HSc5QA6XGQKgdoFfmSQa5u9Y+48xnw2WWMESa8Q8M32yHhzXGw168l5j9D0KyRThFGo/fDWKiREaviFGB5CUbXNPBbUvDDvKjMvdMmav/ba/Q4LEX2mHHUbUi9tFl5uuirvg8glsEpTs5ZFYED0Or/U3Xk93Epp21N+ha8veuS5VN347Ex2J2sL+tw==",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 2.197739652597621,
+        "rewardFormula": "U2FsdGVkX1+pJJCOsM/YapXx9niiluNRFs4PlzzF8sYIy9b4puHHcezbqOppXQdDITaHguT/k0i3TAdfp7kcwfNB41b8pd78E/NnMw6vUXgaHknUTZYm4F5wsDhjIDVF",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": null,
+    "isActive": false,
+    "name": "Exscudo",
+    "symbol": "EON",
+    "stakingTypes": [
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 1.01,
+    "isActive": true,
+    "name": "Waves",
+    "symbol": "WAVES",
+    "stakingTypes": [
+      {
+        "rewardValue": 5.627681038206156,
+        "rewardFormula": "U2FsdGVkX1/GGThsaUkcgoJwy9ZMCM+EeM9afY/3R2pyBUaIt7EkvfNwtFO9mo5lbbgzdKoM4U+REWYS1ClJyvTM9+xqU3nR7zeNwXlY05TCysqAZ3bNVeqEYZIfDo/IWRY7adqGaGLOKUu4VcuT4GdotBp5oP49AEvnGQFD/kSWBrORrW6ziQJ9XwPjh3I6",
+        "providerFee": 0.02
+      },
+      {
+        "rewardValue": 5.742531671638935,
+        "rewardFormula": "U2FsdGVkX182COIWWEUsYI5gDatUHGgi8zDXVJ0iTGYOFCK8urauoQCjlmwaggr+eK7UlMGjiEQpZDx8BerZuRzl5k2T6sOOFxrYZI/XTk/8ldRragPkrloqLXQR2mhKfa0CcJuTwyrNYOWbBan+ECNDY1TkDT3YjPSgrqBZuZ0wjFBnqNG7BJs8KWt8Vsdm",
+        "providerFee": 0.02
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.101916,
+    "isActive": true,
+    "name": "Tael",
+    "symbol": "WABI",
+    "stakingTypes": [
+      {
+        "rewardValue": 6,
+        "rewardFormula": "U2FsdGVkX185SckOWTYb9VPZK/ZmTNlu+WLWuDCaiRbJ6V/XDvBChGKtTp8QSXUl",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 5,
+        "rewardFormula": "U2FsdGVkX1+2H8REWfU+l1veh8h4IeGeLgmrQspgy9T3tltvGb/YOJFFdkHjItvZ",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 4,
+        "rewardFormula": "U2FsdGVkX18rRr1pTPGwU0V+kE50/DJoV5xijcgGnpmidN0m+uG4QKAhYn0Rj7fK",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 3,
+        "rewardFormula": "U2FsdGVkX1/IYoNZTlwTE+PoZo0KtSZpsOELSBNhx6IGjeN25igKTiVCUvqQo859",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.066741,
+    "isActive": true,
+    "name": "Stellar",
+    "symbol": "XLM",
+    "stakingTypes": [
+      {
+        "rewardValue": 1,
+        "rewardFormula": "U2FsdGVkX19aB6CsoaSAnFqK52LXzE3x0doFOeg9/gElNWs6jVkenbHRgqRDQZo6",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 9.53,
+    "isActive": true,
+    "name": "Neo",
+    "symbol": "NEO",
+    "stakingTypes": [
+      {
+        "rewardValue": 1.5706806282722543,
+        "rewardFormula": "U2FsdGVkX1+Y+JdityMtl4szgFlz3aporQlEczGcf4xig5viq5JzEHjDSHlWuAtRYp4uP2p7l2D8X5dFW31NRvj4bHXTWvExYyVZBeLy0AXh3IE71Z3HmZQ6+pjT04IBkUBryJMnvVertp0jeizsYKdYGPcWc1NNP5ZdY/hxhlFT23DnioFI5Dc91+tBeHN3KnArl2vv9ofYVI093a9aZO9Vn6D/VVfXIqgWwl18Q7bFwZk/6C5VyjWwsvFeHQIyXtI2QleNQYuNLrCz+OyAhWfWQmTfWbSaMojrbKaNDE+zdT8h+0lROwmaXzU5FoXI8Zfhk4NXojMB37tQLbo0FpIzvjCHQFIcKsVx/TVDjbTZgXZLnqs0RInksnP0NKu8oJUe86K8XbEQgCyZDjc7yVVx3xXYLhazTQkBswfsS5Dd3jW3Jfv9cRWdspwmUM0uSOpRkja9Qsc4K0snil/VagffgY8mk2Di7OP+nO0eofVFKPfvwgqA1isUZyuFeFjoGDunMYchRYj5JWknqPvZXYlPdhztI4tWt9AGDNRexZxWsiqyZffsME4tQJkjHoOcIN/Ox/AQdgY4u0psekSUGCftlEu1MqxUSQ+UYDeVbTltim+YS9E5L/BmmZBh22ozzGuO5PlhWtVpHPbzovIFjwUr6ZqieK8MzAIZ7S2UilliEJSn0P8oARcP7SQC9sLgYrZzubUXmB6X4Ku7EWbpapZAycHyp0HYr0qhEw8s1q9CoWQfxchvmArT0cJM0qh0g29OZa3oanlV122VJgRKSfxWgZquyvKUvrY2GOA4HxaZoRBJArmow30aPchcqQX5elhOFnXpFJZVNIrhOIRNpAPjI5ZUitvOjJfCg+5JSx8iIBznk838cy86XmuNib6u6BYX4trICKGpIm8t8JKQ7FWqQjiCxMH4z6BEG1beEFUT4D12elT76t8/uK3crUxXqXILWezKzCNB723pqnes1WfIhr7rP0F3winMMa0ZCL7NC5jJPPCw9RklxqAW3PdecMATnRznOzIAlv4HBDjKXJu5hSMqBVQlYE/SMO9IG+ClIt0ln4+1qHZNsICQ7jBmh95hGV/Sfq739P+tJDHAFySOkSBgt3zK7zbGXJjQUkfBdlMS2jktUjwcmGdmk44vw4FVmlc+5xlr4z4cQgVOxOem08R2ELmaEAa466H2QnjLiN+LJE4R6f4iYhUiqgKSwzFgsqR3KG7tz1mqgFtnPQg+d/OCD0ZjKIWHZlRvIRoBuXYe/Z/jGdWDbQ0hF70bTdKkLGyAo/JpLU4jQEaGD1fAT3uZeJQqetJyLwm7D0eoXAfWmJ91s6n5pUIlFsw9FPtuehT/TRYussz46x10CkkikGiVNaU/mVvwe/glbr5SfC19D+Jw2tIw8/BuRTH5weehe7tUe0eVVo7orx2Cvz3OWIMAPuVddsl0Qa/9JhWXJTzj9HE0mDu1eZZCK5II",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 2.47,
+    "isActive": true,
+    "name": "Eos",
+    "symbol": "EOS",
+    "stakingTypes": [
+      {
+        "rewardValue": 1.8047944689297288,
+        "rewardFormula": "U2FsdGVkX1+mvznvRwXEw//Jqp4HiCj4msUzuKstunpNeXgcPCIdGW03qz0z9hY6ppCFlPOoKFs2Wf2ImaLYDJ6Sp4DF26K1ha2hZZClvWxp8hbOUHqAq+vPxqvx7H0FH2VOlp+IcSYeOJoMHdz1kpPnVbpJigcfNEuxJyyYabFkVMl1PmEQKinCIMG+SpNoqFeCun1lWV2QirvuOc81VzvysQmo74vrY21wwR81smi7gfTGm/gPi0+q6uBfhkOUDLkFTPfZfJa+BHB/FQvsCsgEEpw0sCaX5TDS8XmCcz7cf47+DHhRgf6zVJCEMg2I",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 1.761327131617707,
+        "rewardFormula": "U2FsdGVkX1/HDeUF0LnFe6YQ2JnRFBBXcYN9XOLqg3BmDPkGxKNjvKo7YQLa3G3zRJmvBMIvjeIjem6z1tlE8Dgpxt0NNf0Ouiw3FUxDj1JFeS2FZqmLYy2zSmh31pfRpa4KLeKBd9quXQJ4dh8PEVqNF2FdzCK+bcf9Ilar5bRchILw2BCO/rZyLCkQRMr7",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.17132,
+    "isActive": true,
+    "name": "Wanchain",
+    "symbol": "WAN",
+    "stakingTypes": [
+      {
+        "rewardValue": 7.634081139181656,
+        "rewardFormula": "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",
+        "providerFee": 0.15
+      },
+      {
+        "rewardValue": 8.981271928449006,
+        "rewardFormula": "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",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.300713,
+    "isActive": true,
+    "name": "ICON",
+    "symbol": "ICX",
+    "stakingTypes": [
+      {
+        "rewardValue": 13.561388431381488,
+        "rewardFormula": "U2FsdGVkX19FRWQjXN/O8zkmLng+bVty7cuXarSsuCPQ5VVshbH7uVjm0ANUILvogmPKcUkO/QJrFecjELnEG23yO8WpRUldAhQ/qElkG1TGmYsvUE94ydVEZT4F+wPQD69NJeYvffW90mkmMAPONa444BFe6hLkmmtlEC3Es/I=",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 5.125181455141617,
+        "rewardFormula": "U2FsdGVkX1+wj6JrY/wZH55ZVu59bdlSokzt2HJcNJ3EpJfLTz2j2WvDi3wrTXEwvZYv4ZjSpb+Tftvh2++SnEiGRJcvzIdNSXsWn7zsmc+9TVf6LH39tj8HEbxRtROdWGsD2jmwoEtCRwSsd23waWWnbN67C633XI4ltEXutVHVFugGgKJsN/KOXFIxaRxI",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 6.721144346434907,
+        "rewardFormula": "U2FsdGVkX1+q1dxaKuF5Jcl747n9YsiEUmBwJwTbsdgInNGVLOV8CUMrRgMKe9tfPqmM1vergand2DZv14czI8hSf9Xvl1ZKqXiy3DqCLAoZLuttd1fZhZKJyghRO/dR/s7IuhA6ulgaNcf1JJHz+5kzpnxLlaWu6jlMca7zRTj+w9HMZXGFldyhhVPzQBP7GnCDQbWByHBENAWKjJLZIL1/03CGeC+CfNjMguLo3B9v+BbcHxqZFQMefGdYkUQY+fmtSLEHaTitmI1PxuvdTZC2K8ODkoT+uWwS3WO+BEU=",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00352195,
+    "isActive": true,
+    "name": "SmartCash",
+    "symbol": "SMART",
+    "stakingTypes": [
+      {
+        "rewardValue": 16.197910929188374,
+        "rewardFormula": "U2FsdGVkX1+eAybwkkqQrYxaAma8B9EVF/0nGcQNbEeIDTOlrFz1t9eP+Ge+JQ+ju70UVXnvR/KOrLlZ9YN65UdyQ9v6PJ8qCqM2ylCtn/S607v+/4/6owefnXRYM4w8grfeHDj9tnvqpPcyIzdGgfuKFR2Zaf6TAUWhSvoJwyQ=",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 1.957838425739793,
+        "rewardFormula": "U2FsdGVkX182utgsw4W3tCUGswo0V8Eg4Kg3TrV6ZGNiTxzib2tzx5MaldlA5hirT8C+ol9at9TtMdNZjdHDTFq4SkKuFZ0HI3zHSx1/+cCU5BEKnJlOCmI3RXUZp8p7zzUVEY5wYP1J+6keBGePQQ==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 4.12,
+    "isActive": true,
+    "name": "Zcoin",
+    "symbol": "XZC",
+    "stakingTypes": [
+      {
+        "rewardValue": 13.253122887325041,
+        "rewardFormula": "U2FsdGVkX19Tj0T6mvfcvy1+J8IQWkI3AFj0eL2FIkxftDhdP+6NUdiKOW+hHWFkP7B7/WM3kXedEO78DOyE+wcX4x6Cb6yD76A5M4LsiiUDxE1VC+/zB8BSxYtpekLdoMRW2v0JOd5bb8nDVOrZSp8Ua3Ip9RmwpxgX9F+IpvE=",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 1.35,
+    "isActive": true,
+    "name": "Blocknet",
+    "symbol": "BLOCK",
+    "stakingTypes": [
+      {
+        "rewardValue": 4.764021407069826,
+        "rewardFormula": "U2FsdGVkX19orTnapr8HaFPW9p2rLhrIgVXD0ZjZ1/t+oo9VuB9aHkY7bzQAu+XGHdI/zRDmfxD7YLC4NwbZqc5FbXScp4CwLTepLb4ROT0=",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00429715,
+    "isActive": true,
+    "name": "VeChain",
+    "symbol": "VET",
+    "stakingTypes": [
+      {
+        "rewardValue": 1.1204595898736414,
+        "rewardFormula": "U2FsdGVkX181w//Puq5R6SBh1XW68rkqWuJDINt4NLWBq5u3qw9noNR8bK8vhW8/P11oqiPFsSCc7hK163l++omETfHgVX0X6+j2E+t3am8=",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 1.5095080585797669,
+        "rewardFormula": "U2FsdGVkX18tYKZ1WMS/+1+VCPi4Az2DHVr61fa1gnkTUGkvIRGpV2qaI2m0v8/XXdFt9zipj1qFfko41/pwGEESZg3RVhr0kcGzODRKDyI=",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 1.7040322929328295,
+        "rewardFormula": "U2FsdGVkX19wmXKrL6QPTttCrXzCdR9opKFdJ80CC++lvhdo3AWit6ZPnAMOB7lZS41tWjz+sGFzHBgZ9n01y6VMmTomtQGbeWDBQILnubA=",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 1.8985565272858922,
+        "rewardFormula": "U2FsdGVkX1/AEWDCWpKRGIEOL1Q+GV1Mu8k1p8kdfG8cIV3vyZHEg/Um39Y5KANMb9txZTCEmESDRTdKPO7iu/tPe9TJySVkkJ8K9aWoJf0=",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 1.8985565272858922,
+        "rewardFormula": "U2FsdGVkX1+s0Cpkn4+tYvEF0Qzl4/Z+z69Jng8Qo/X/wVkZvEnS/NovKYk9t+badJXA3Ua5iCHCEV2mUaKIUlwKsmuVvs3LVLE1dmYtM2c=",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.786165,
+    "isActive": true,
+    "name": "Particl",
+    "symbol": "PART",
+    "stakingTypes": [
+      {
+        "rewardValue": 4.655259689881586,
+        "rewardFormula": "U2FsdGVkX1+sdOi/LDe+vi/qqEwTC0M6HGs4QEr3qr4ql/py5r4xFboeAjC8LmXV6AXu560K2a07f/KYE5gyF4sijpDpm6vf9B8bzcDDMi0oYDi1IYZmJXr/zslCj52zlrqQ9E7T6Roy1Sw7ycrGBbrNiypWUh6vgFTP+dWeJPGGNhiE1LYoSzIvHRGsj8d8E4EQ+Eao0ehBxIiAMVbcjZS0+reWgm+KZW/1OkJBEaO6REkyV3CHr4vWnP6HP7YL20Rz5SaLfNmOwQEq/QeycutL3ROylxO6i5zR6FxKg7E70h6ubu5letgzoJKzg6JdIds7pNbRPb+E643+ZXn+KJcCOr1LT3dzhPN244+PBuc=",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 4.375245284269023,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.940902,
+    "isActive": true,
+    "name": "KuCoin Shares",
+    "symbol": "KCS",
+    "stakingTypes": [
+      {
+        "rewardValue": 2.6284793816808554,
+        "rewardFormula": "U2FsdGVkX1+7wwUWUNd51EVqbXSZeU11IUiMZ+OwAR86ONiyXb4tPtiquuthemS5UHSEhhG6MRMMPUeNh0zte1PE8IzdWVLuvDmtHQTrb4+RMW/hfqS4ch3e0/LVogNNSAgCUR7RmvVvns4tFAwoMAhqG5G2fMacCr43Jb/OVz8=",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.564007,
+    "isActive": true,
+    "name": "Komodo",
+    "symbol": "KMD",
+    "stakingTypes": [
+      {
+        "rewardValue": 5.1,
+        "rewardFormula": "U2FsdGVkX1/O6y3yt4iDMk6Fpy2Aq6dlgElGlbGYcxf6e1YztZVM2fMAFqFM95U9",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.469769,
+    "isActive": true,
+    "name": "Trueflip",
+    "symbol": "TFL",
+    "stakingTypes": [
+      {
+        "rewardValue": 5.2,
+        "rewardFormula": "U2FsdGVkX187xmy8yhm+xanpkuPo5Cm0RaeLyUSa9Fg4poECYFEerfXqWzfTLgyL",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00627513,
+    "isActive": true,
+    "name": "Edgeless",
+    "symbol": "EDG",
+    "stakingTypes": [
+      {
+        "rewardValue": 12.363075807617758,
+        "rewardFormula": "U2FsdGVkX18yic5jZmy4qAsMREOQr6IgU6QUtUn+LtfN7Q9iSUgkmS1X8tOM/itoDDjoXId8wsjmLCkl2S/wdGp+T4gMa6S3gsXoZpHJXJqDWfRRBo/LJ4CwNLEl0QkD6472Kx5Qv1hp2pC1XvLrUhqXYAeF9tyXNp7iKsGmEec=",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.201693,
+    "isActive": false,
+    "name": "Steem",
+    "symbol": "STEEM",
+    "stakingTypes": [
+      {
+        "rewardValue": 0,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.01645426,
+    "isActive": true,
+    "name": "Idex",
+    "symbol": "IDEX",
+    "stakingTypes": [
+      {
+        "rewardValue": 15.037024878976071,
+        "rewardFormula": "U2FsdGVkX19LYFfvaZa3FSUfW54gHPrZXFSdZTTAnNl3V3QgsdaiPW1wlyVP1Tnxcc7PjV8A5AoAW84C3LSevRatKdLQq5Ra3sl1sKKaoceE5rFJnK86HnIchPE7O8nNbYzqtyDFfkRTX0YsfN3GM2GjQNjtAxx9xWZEMPYDVOg=",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.0001416,
+    "isActive": false,
+    "name": "BridgeCoin",
+    "symbol": "BCO",
+    "stakingTypes": [
+      {
+        "rewardValue": 1033.5721168354053,
+        "rewardFormula": "U2FsdGVkX19ga4ElTh0ssRCHCqHQyHVn+c1MQYwr9LaHMQ908al5Co2e/XhO5MaEW7QCN1nrL16Kn/tJs1U8DmiUhkgAj0rbKsqKz8UNe35Ryr0E3j8P9DDyxrKah2eQzcHwgWQHKB0QsQVMAztAWjUpQ9EIGbHlBavgqhqPa/nMZbf/HXl/aI5jqykAoHKc",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.04120941,
+    "isActive": true,
+    "name": "Deep Onion",
+    "symbol": "ONION",
+    "stakingTypes": [
+      {
+        "rewardValue": 10,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.057893,
+    "isActive": true,
+    "name": "EmerCoin",
+    "symbol": "EMC",
+    "stakingTypes": [
+      {
+        "rewardValue": 6,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00004487,
+    "isActive": true,
+    "name": "HtmlCoin",
+    "symbol": "HTML",
+    "stakingTypes": [
+      {
+        "rewardValue": 2.8033820453516176,
+        "rewardFormula": "U2FsdGVkX186hX2EkfNXhLr+H8Vo9Kc2tnhiAPQ1Q04yKZ9e8CByEYlmSKokVZ24l70x/766x3sFwUPd7LT7SAAZegsNFCNVQlQI7Hy3lh1hvq7vIThXmBzCjCDiSOkcfNSSHD8Y2syLde34F3QeXs+Hn36Lr+D8/+OIIMIwQlkQh+vGS8O1WG1MWxsR5VUT",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.150905,
+    "isActive": true,
+    "name": "CloakCoin",
+    "symbol": "CLOAK",
+    "stakingTypes": [
+      {
+        "rewardValue": 6,
+        "rewardFormula": "U2FsdGVkX1+jPm39LTTAOg56N69lL6FFZ/ZlKENADfkCzI8W2vovozKLLwQBIoEk",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.256844,
+    "isActive": false,
+    "name": "PeerCoin",
+    "symbol": "PPC",
+    "stakingTypes": [
+      {
+        "rewardValue": 1,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00172848,
+    "isActive": true,
+    "name": "PinkCoin",
+    "symbol": "PINK",
+    "stakingTypes": [
+      {
+        "rewardValue": 21.42869792851581,
+        "rewardFormula": "U2FsdGVkX1/AF4NRZkAdvUF4X0LPmdmOGRba/ASJa6xWaXiKWMYpqnmuLL7hKSWUVqxO8Ya+uXaZeXxqNhTRb2A55UOpb+zjp5a6ooimC5lgTsZsG3KW7MkI4vZ9ibOr",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00620265,
+    "isActive": true,
+    "name": "Crypto One Stop",
+    "symbol": "COS",
+    "stakingTypes": [
+      {
+        "rewardValue": 0,
+        "rewardFormula": "U2FsdGVkX19ACNQQLwtg+OxErsUTPjZmsQdVjJba4NhbhVVQ2GDe99cCk8ihjYgCHNm0CF4lDNlX4Zv51C4N1XpzV3omF+gmayDw6j8vJPP8ZL3XwTHpQKWKmdNC887U6rjirFv91UIG0qMeJAZF2w==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00855143,
+    "isActive": false,
+    "name": "OBITS",
+    "symbol": "OBITS",
+    "stakingTypes": [
+      {
+        "rewardValue": 1,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.263326,
+    "isActive": false,
+    "name": "Waltonchain",
+    "symbol": "WTC",
+    "stakingTypes": [
+      {
+        "rewardValue": 5,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.237767,
+    "isActive": true,
+    "name": "Phore",
+    "symbol": "PHR",
+    "stakingTypes": [
+      {
+        "rewardValue": 24.570831589982667,
+        "rewardFormula": "U2FsdGVkX1+/JR8XVzmVdjRIHK2MuSm3HT6TwJ8NZj4ftdyoYTFb1PPU9J04J/E0ATSSlDmW+JV3gOXy8L1grISPw9+n9w1it2SC0gYBAtvhi9CRUIDYhfeSgVP85sP/",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 53.45084745596925,
+        "rewardFormula": "U2FsdGVkX18vRm5zsOzS7s3o0EmoH7DIqlzPz2YMX8ZLBCy6svBFCW/jlF6YWOwaw17YfeqOvFAcSY8tLTyexiNZ0Ri+sRUfLuricdVggEZ9p7ULGn+ra/Pe9QSSPluxfvsadUKDgNnDvQrBesTx5A==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 1.51,
+    "isActive": false,
+    "name": "OmiseGo",
+    "symbol": "OMG",
+    "stakingTypes": [
+      {
+        "rewardValue": 0,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.766588,
+    "isActive": false,
+    "name": "Taas",
+    "symbol": "TAAS",
+    "stakingTypes": [
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00295259,
+    "isActive": false,
+    "name": "Substratum",
+    "symbol": "SUB",
+    "stakingTypes": [
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.01427318,
+    "isActive": true,
+    "name": "Tron",
+    "symbol": "TRX",
+    "stakingTypes": [
+      {
+        "rewardValue": 3.342326943735611,
+        "rewardFormula": "U2FsdGVkX19IHefdwabjVu3t2IQwJvuDjoq2wmlcUFVcHpQIZ4hLeoytLG070HX5Ohsb41kdpFJuaY43Jw0CqCf+kxbLzYyVIfH0QVM7t3ca0ePphJr45PWzU8L/yNGN53dEyrnt1ViEl9+WLz4hsv9bWqCQdEt8gdvGWGz+Uitw/w+7jCAxYaIvrchlqqlQy5dMrm6vwl4QKUsPzYM5oGf3qce+2MieDbC1kq28Wu/M+XINHDIuXVWsIMBz+zgAU1lszAEvDbDXH+No427pdA==",
+        "providerFee": 0.2
+      },
+      {
+        "rewardValue": 3.024922205714584,
+        "rewardFormula": "U2FsdGVkX1/SxUJFNeS8ULcUr039SGh1uP2Edc9OYjnkZOo10U2U3fxtaxYbgxPSIYyIiXQbFO1l59E5cNKtYHDTEMXeBlXoiPY0g448k61N8fcnjtGb6jPZznXj9w8ToebD7XUXEbf12QlIlePKHcUyU4edUQDgCgjIfqEtQeI=",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 3.2788459961314054,
+        "rewardFormula": "U2FsdGVkX1+XPerHMZef2um7tdUBW5QOoYg4cD18o7Ill4JxnRw/No3nawiEKjg6QJWSz4ooMVxjjVnvzVktdrCp6b17Nt7n20TIDo7cgJms+B10W1BBet9C3rVUuQpv1kmmn8ShoSTbGwgMHplNe8KmlJ7wpG5YwNTf9yFaAiUsfWxPKPFZ1bxYGzz0LAZEEAB6w6zL05n8OTKHln/+Tx43X2y2Kbe6JFJQXyXrV+tcHoZmXMZ/URvD3Jevfbj6Qpc8AG1kyV5EBYQi9E9MpA==",
+        "providerFee": 0.2
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00965661,
+    "isActive": true,
+    "name": "Zilliqa",
+    "symbol": "ZIL",
+    "stakingTypes": [
+      {
+        "rewardValue": 10,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00357836,
+    "isActive": true,
+    "name": "IOST",
+    "symbol": "IOST",
+    "stakingTypes": [
+      {
+        "rewardValue": 10.449864832054615,
+        "rewardFormula": "U2FsdGVkX1+2gsCfueFPiHqJ9Q1TlLM/FkH48bgZPkFpNfwfYM8jq4+QdheSe2Hsm3NDmzDoKL5EEnKUsXi8n3z2JG40Eta5Sgv1yJMr0VBWZeVGZm4iOX+HCtGqVd3bP7ZFXayOEBdQ32zd7Umj7RGyPKdVwIJmrfLsSlSwhtS64q104UIfjKStpf7neiub",
+        "providerFee": 0.5
+      },
+      {
+        "rewardValue": 20.89972966410923,
+        "rewardFormula": "U2FsdGVkX18rX10eSFtl+oPs9qIWgdnPIHt41ohC34ZSfCGy1R5OS3J8so7QQ737z4YAYp7Fvxr9tvzTkXJ+EN+m/ocaoITli6yaytC069b0Q6YCU/tzHXhDUlTIpQES6+tOcPNKIKOlKYpF/Y6UFb4QHx4nNAzQ3Q1xWEJZodB2TE3LQW/gHQAECvmby9G7",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.091933,
+    "isActive": true,
+    "name": "Aion",
+    "symbol": "AION",
+    "stakingTypes": [
+      {
+        "rewardValue": 5.9532492768620235,
+        "rewardFormula": "U2FsdGVkX1+Ybwd4Q1SFAGbD0NfSyvB2RBOhdfK/cOBGqhUkxqXS8oBtOwwOJUsBdyR/L6bGSc7pjapBNlsTDD/DUcI/v9+T3weeVNPc1ezbX2fnFBE6GFlK/3anwqF22Wd5TEp92iFGHy5QB5K5ok4ao0h731PJZ+duTg3wR/vV9BP8RsQWRj12Mk8N544Nnhzr8K8KYis0RJWDUQqzXg==",
+        "providerFee": 0.06
+      },
+      {
+        "rewardValue": 6.3332439115553445,
+        "rewardFormula": "U2FsdGVkX182dUHYv6pL0ARxTEX2pckWtCUbHL/ccZPstPhApiLfouJld1u3VCj53eGHnPH7QNwjzQ5PLgBmi7U4TADcqrMAmIczMnMZWfqJRBRrm9YWVDh8w5KJU/lNK0k7s/NYiqCL0WRYHeXUl5WC9hLcJNjxbhZUuyB0lzDo+Zv/lK5KEZtZmeZG2nGDnG3D//4hCSUfe6w5aJ5gGg==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 1.15,
+    "isActive": false,
+    "name": "HyperCash",
+    "symbol": "HC",
+    "stakingTypes": [
+      {
+        "rewardValue": 6,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.289592,
+    "isActive": true,
+    "name": "Nebulas",
+    "symbol": "NAS",
+    "stakingTypes": [
+      {
+        "rewardValue": 3,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 2.53,
+    "isActive": true,
+    "name": "Cosmos",
+    "symbol": "ATOM",
+    "stakingTypes": [
+      {
+        "rewardValue": 9.028180316567227,
+        "rewardFormula": "U2FsdGVkX1+y5Zz3l60twmBbgss0c380gWGRK+30sX0JPXGHmzSQEScBYnOGsDoFov3sVU2dDTOi9Mj7ccjkOAUx3jRnaAoanw9QcWgh+DZcNrWHNoig51p7wxIYIVQo6Eap7W1V/yPoh+ukGgUnacNtREkfYhUOQuEiQm08F5j2ZyC6qyMeOSzVlXqWFTHw",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 8.305925891241849,
+        "rewardFormula": "U2FsdGVkX19Va3GAVy6qIGVPXmZ+AIJPT9gBzzdQvCu6eZb08t1S5SqvRADomasTzJI1U1Os4QlnS9E/UuDf5dyRLtXtEQHQ8P/nF1yE1APnioQpM6QurF2QUIUxK8i5ukGRSuvQh2x5pvKAtx6vifVoTAnhgvoKtMgQWbU1VDIG4sjvqiFFlAchNhaHmSnI",
+        "providerFee": 0.08
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.433774,
+    "isActive": false,
+    "name": "Skycoin",
+    "symbol": "SKY",
+    "stakingTypes": [
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 199.48,
+    "isActive": true,
+    "name": "Ethereum 2.0",
+    "symbol": "ETH",
+    "stakingTypes": [
+      {
+        "rewardValue": 9.350195475718523,
+        "rewardFormula": "U2FsdGVkX19AQDtIzGISa6KuypMzIGZgP7D4UMqXk4EankqMF+H++YrbtcXXFxYEGWHmkrZC6IBOUDNzYiRu3rjjrFQuPTrUBR/MbDWZcaXWShpC/NeOG/B7eaOSt5BkqmywNLwwF3nX4xaEAojSzUKp3iaFpMqouzBa8hC2VHbK2BSKZf++cf75ILEXi9catecyBA6xOEr0EDqUItDgR1Onjvrwd0n2j+0x1C46zgOe7w3XZ9Az/UN6+kzG2wqXg1n6KnYrogU2e49EwLKy/5K0LWjOGHWQZgOZZROq4Npr3gZchf1AKdNRAnKBUUcSnJEhQz/6++eBF2op0EueyKY9PVugEyuhhNq/hGTsRD/WVKfGrM8eOovRtA3OISZf2s69YV64kQCWtwtrFC0MrQ==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00011832,
+    "isActive": false,
+    "name": "Pundi X",
+    "symbol": "NPXS",
+    "stakingTypes": [
+      {
+        "rewardValue": 17.64,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.358268,
+    "isActive": false,
+    "name": "Fusion",
+    "symbol": "FSN",
+    "stakingTypes": [
+      {
+        "rewardValue": 10.99,
+        "rewardFormula": null,
+        "providerFee": null
+      },
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00004109,
+    "isActive": true,
+    "name": "RChain",
+    "symbol": "RHOC",
+    "stakingTypes": [
+      {
+        "rewardValue": 7,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.229384,
+    "isActive": true,
+    "name": "Nuls",
+    "symbol": "NULS",
+    "stakingTypes": [
+      {
+        "rewardValue": 8.146754879807569,
+        "rewardFormula": "U2FsdGVkX19KmdGXVNn/xoNFywgtwdoqm5hcYE58lhuZjEbsHcxUaMZ1hzqHtTjLHA9wD7Vth1rx02CAhTXUKgPEs5+kpNs2nyxmF4HhUvELg8AA7OZxl2R0lz4OoQ7/XdINP6/U+709tADM7C9zHxsU5zWRffAmax5e4BZidq0=",
+        "providerFee": 0.1
+      },
+      {
+        "rewardValue": 9.051949866452855,
+        "rewardFormula": "U2FsdGVkX1+5X+ilOnxEKqfCKjZGsxlhlr/ZSdGaLJ6m7+wx2Yoi+CIF9fA1XkmWZKA8D9I+wG3Yt33wCE0pjCcn87Yq7ElSffDO6xODGz3DJUDScSVs5EPtHU4QGt5ooqE+Pl8i7eAs8Dfit6J0wQd6eMOZ6tadZgBk2MwKR3U=",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.465113,
+    "isActive": false,
+    "name": "Ontology",
+    "symbol": "ONT",
+    "stakingTypes": [
+      {
+        "rewardValue": 4.62,
+        "rewardFormula": null,
+        "providerFee": null
+      },
+      {
+        "rewardValue": 2.0168728891382686,
+        "rewardFormula": null,
+        "providerFee": null
+      },
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      },
+      {
+        "rewardValue": 14.304482377902,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00244996,
+    "isActive": true,
+    "name": "Red Pulse",
+    "symbol": "PHX",
+    "stakingTypes": [
+      {
+        "rewardValue": 5.75,
+        "rewardFormula": "U2FsdGVkX19nMTUrxScI0XLQ19nO7uVogl4F1B7swHoLqem7QJJBtIMQ3R+b8Dps",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 6.5,
+        "rewardFormula": "U2FsdGVkX181brMsUuevel/828wO3vlslh5eAeGTYOKwebxKu8mXKBC82IwjNJLH",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 8,
+        "rewardFormula": "U2FsdGVkX19JHVrzUpaZor82q6DUvc9JMkTGraWT+umcviTEI2VIiMXqlJ/lLWIf",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 11,
+        "rewardFormula": "U2FsdGVkX1/AyiYbvoptcvYWK0CnRBAfeFzrpZieXTsLIQ3L+reSXspEpneNbjyE",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 9.11,
+    "isActive": true,
+    "name": "Dfinity",
+    "symbol": "DFN",
+    "stakingTypes": [
+      {
+        "rewardValue": 5,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.170919,
+    "isActive": false,
+    "name": "Solaris",
+    "symbol": "XLR",
+    "stakingTypes": [
+      {
+        "rewardValue": 37.66,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.03901784,
+    "isActive": true,
+    "name": "Bismuth",
+    "symbol": "BIS",
+    "stakingTypes": [
+      {
+        "rewardValue": 6.600941703681626,
+        "rewardFormula": "U2FsdGVkX19RqtRYPVyOrJXSZxLqltF4AkjpDvEHbTK7ZdRu/+dAScguGD0qdRiedhzNdt0f6LfKuM9hqreqFvo5il88908PjYqg2zK9aYNtDOxMsCIH3HLbG+fxT694ccNE+05oCtvKD4i2H1csmNlvkXSwVYHCFXE233JF1cNTZFb2B2e2umshHY03y6HgJ5akLc4wW9yCw5hB8T3G3g==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.191693,
+    "isActive": true,
+    "name": "Algorand",
+    "symbol": "ALGO",
+    "stakingTypes": [
+      {
+        "rewardValue": 5.412229012072566,
+        "rewardFormula": "U2FsdGVkX18y5UT6n0oVZ5BwdDzsOJapx2JtGNsOVhmepU9aNl19z4Ddz1oMtabW9sQQCpOTMrJttdT0oOfuoZjvlDFTQhUjoIAff3xuZ9zjs4kxEJvvBzXPwAgu5Iv2",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 125.43,
+    "isActive": true,
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "stakingTypes": [
+      {
+        "rewardValue": 20,
+        "rewardFormula": "U2FsdGVkX1+93jDdS9Rs1AfP10TeNO4lBle14m4wWmMTbhEKuqWs9ophkiR0OmAOgsJAKtHQojqewKU9RG6YV4L0GpIqBvQjbEuqnNanaLJrK4KVRhXXNNrCxbnmDsDLkk6niqSukWe3wp2m5BiTQ4QnUqy3Vc0AVahkEHIyniUHvp4FM6oDSHzgPxwewz5mWzj4AgLDDqz1EzgI1yn49CIQM/Hg+uEHzR4Kp1p20bxbyfZI87gcPdv1IShlvDMHwQsmcYIfWf8M0ox2jD/DWDmxhpv2PlDxccSQLdvy8UHOyWnbuS7Zo2Y54UFEfzlU1+oXWEHFjtcrwRrcsFqbUVo8B/l1pimGQg/S0J+6DTP+6nw6bcYBAbdZXLiZ9riLKMoA6rJMPl4hiP0axMIghA==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 3.86,
+    "isActive": true,
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "stakingTypes": [
+      {
+        "rewardValue": 0,
+        "rewardFormula": null,
+        "providerFee": null
+      },
+      {
+        "rewardValue": 0.18489845859552276,
+        "rewardFormula": "U2FsdGVkX1/AYoC/pjRtaSMwZ3qnZrblNO4MfCTsFdMdGRN9u8dOtBv99ZZIwXuHItyOWIv/mCYoRCR1PogNUw==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.106944,
+    "isActive": true,
+    "name": "Nexo",
+    "symbol": "NEXO",
+    "stakingTypes": [
+      {
+        "rewardValue": 4.8,
+        "rewardFormula": "U2FsdGVkX19lhTxgtBgG5nhOE2+HSJZJyTob0evI3+sDUI/TsxPCgb5L2vSuUQc9",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.03616362,
+    "isActive": false,
+    "name": "Phantasma",
+    "symbol": "SOUL",
+    "stakingTypes": [
+      {
+        "rewardValue": 0,
+        "rewardFormula": null,
+        "providerFee": null
+      },
+      {
+        "rewardValue": 0,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 21.11,
+    "isActive": false,
+    "name": "Gnosis",
+    "symbol": "GNO",
+    "stakingTypes": [
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.01558831,
+    "isActive": false,
+    "name": "Pchain",
+    "symbol": "PAI",
+    "stakingTypes": [
+      {
+        "rewardValue": 8,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00275202,
+    "isActive": true,
+    "name": "Fortuna",
+    "symbol": "FOTA",
+    "stakingTypes": [
+      {
+        "rewardValue": 10,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.04355337,
+    "isActive": false,
+    "name": "Stakenet",
+    "symbol": "XSN",
+    "stakingTypes": [
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00234741,
+    "isActive": false,
+    "name": "Spankchain",
+    "symbol": "SPANK",
+    "stakingTypes": [
+      {
+        "rewardValue": 0,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00050221,
+    "isActive": true,
+    "name": "Callisto",
+    "symbol": "CLO",
+    "stakingTypes": [
+      {
+        "rewardValue": 8.867428375485401,
+        "rewardFormula": "U2FsdGVkX19bv28RTSpdsXs8Skc/ZuU/YBz4Tum3NzQVBQvu6Gpc5Ta05v05qmabqQYAwxNuuhtW/USlekNRuamSwyl/psjG9QAq9X2/0TwRLohgxYTqCUp1KJKxgWIQuwfdsGWTEZTvRcsdco4sZ3X/bK1JvXLdrQr+iLnnyj0=",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 2.01,
+    "isActive": true,
+    "name": "Livepeer",
+    "symbol": "LPT",
+    "stakingTypes": [
+      {
+        "rewardValue": 34.762624096594486,
+        "rewardFormula": "U2FsdGVkX1+mX8lF0nIzJYhzbXb2N5kkxy8BzQwsmZy1udWeMOw1V0+EckLLSR67s4EQmuKRXoMc56dAoWaDC20RBYoUVK0RvYD+sJHH+pa2MygFHXuvEjPCbukVyzUgMUuBi22xnAwidoElhGUU0C4fW3AwY9A5F8YewlkCbD4=",
+        "providerFee": 0.1
+      },
+      {
+        "rewardValue": 38.625137885104984,
+        "rewardFormula": "U2FsdGVkX1+1AzfGRZi0MXt47YHpM5oT9aZqrss/K19GOhx3Zp9EDtdvFxQf5MB0d2q9Jol1frQC5YrrFLzpNrHVGdowpB8Su9ZKpHIUm0LZ+S6b/LixHk73sWaPv5ZiC/oO2DimJ0uzVy00dbUYsFK93L3Ht0NUuJrU2cwMyAU=",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.089922,
+    "isActive": false,
+    "name": "Ren",
+    "symbol": "REN",
+    "stakingTypes": [
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.915928,
+    "isActive": true,
+    "name": "Nash",
+    "symbol": "NEX",
+    "stakingTypes": [
+      {
+        "rewardValue": 1,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.311174,
+    "isActive": true,
+    "name": "Loki",
+    "symbol": "LOKI",
+    "stakingTypes": [
+      {
+        "rewardValue": 15.987200600887281,
+        "rewardFormula": "U2FsdGVkX19pRJspMXgIREeRvARcgbUDAMjzGlU/lBhWcL4O8moxP4D/zDlcLCG/Ekk+1E+oc62NbUtq5gKDyxT83q4dpf9WSx4FFmBL7zUSu09/gq/i9i4/8AJO/IZlWb/pi5FXH1shTqzdrHfLRA==",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 14.388480540798554,
+        "rewardFormula": "U2FsdGVkX1+SxyTkklhIdWXoQFY3GCpPl+GoGZmcmZoWmAEkO3LQzhw4WLox2GHXRs5HVhJbSafypEzB5ks6XzSmaC4oHLuuTB2ktGjiE5QfTUyPC4vDt57hvl47H22pozDgNWwYwYUBDrU6zcHd7g==",
+        "providerFee": 0.1
+      }
+    ]
+  },
+  {
+    "priceUsd": 165.64,
+    "isActive": false,
+    "name": "CryptopiaFeeShares",
+    "symbol": "CEFS",
+    "stakingTypes": []
+  },
+  {
+    "priceUsd": 0.09143,
+    "isActive": false,
+    "name": "Bibox Token",
+    "symbol": "BIX",
+    "stakingTypes": [
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00246082,
+    "isActive": true,
+    "name": "Zebi",
+    "symbol": "ZCO",
+    "stakingTypes": [
+      {
+        "rewardValue": 2,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00918243,
+    "isActive": false,
+    "name": "Memetic",
+    "symbol": "MEME",
+    "stakingTypes": [
+      {
+        "rewardValue": 23,
+        "rewardFormula": null,
+        "providerFee": null
+      },
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.069052,
+    "isActive": true,
+    "name": "Alqo",
+    "symbol": "XLQ",
+    "stakingTypes": [
+      {
+        "rewardValue": 7.537284894345232,
+        "rewardFormula": "U2FsdGVkX1+hXwPnj/2OJh8AW604k6ZSJGbSFgpbSRfdkPbdbq/ue4g7q2e6kMpTS3eygPM2DyvLmn810zqDeO6hhbphGMDCiqsgu1+oDDzXKRxh+Nq60NXqRRn0BTBSGrG1dwwpu6uZ52kfk1022rjh2v5LTx5QOpFpi0ez/G0d2pFTyqt+EOLHi0RfVBaV",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 23.495612454101742,
+        "rewardFormula": "U2FsdGVkX1+1Whp9xrPSEjvECyyx3xYjSJk9+bS3rpQSgPPPiGNqfH4i+hrK9MK2v7TCuhiN1ES1kJv3eAzfR030ZzZiF/H1MogE9N18RK/Kgn+6udXlTJQELhYjgoidbXt1QvaqoZV37i303tuoeFrpqJ3L8Zyy7zrQGrbzJQ8=",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.365668,
+    "isActive": true,
+    "name": "TomoChain",
+    "symbol": "TOMO",
+    "stakingTypes": [
+      {
+        "rewardValue": 5.073673976035546,
+        "rewardFormula": "U2FsdGVkX18vt+JvSkRYPJnFGL4N0IHPH4K0n20GkCYxX4JhTYUZOILqQb1MGz1yfjTx23ZfHS2ZnPAIX25V8/vFv93dQHglU/hVChpTYCgdOV1sejqKvk6dNsPqwYrN/e7peMzW1vONfQOX4iglYfp83gU7ReBGUtExadiudDzlb+c6n45LRFdb+cBa2CuPWUMjboIYQ1+kCKXkIMzzmKbAGNDXBZLsTbkE1I+lk397z4N2Ubx9H9M0F19oNK3AXABunRvyB/xlM1KR6QKTSQ==",
+        "providerFee": 0.5
+      },
+      {
+        "rewardValue": 5.682606924791565,
+        "rewardFormula": "U2FsdGVkX19wQKZksk7t39yJBuvA2q/WYEI9mDnXY33D8RBOzUKwV672Hg9CYfYuVujnXlXGIKJMn72KpRpPtUmK5R/4QDcX6xTsKmlA/nEm1rnctAmDdUAZZEhT2ISxMfutRRW2IvCoZiPp2CqSpHIhOH6Na1I4an+bgA2PUDrbFzui6Y1FCOHmHb1RC5FKAq+oIoUcz05GYtYX/9bLO02Yd4u6x1EV1uTSPEbPyb1s6yPpe+8lFFllf6Bf8d8QCHsUztZHCq0RlkyeH4a8meQ14HZ7BUntUObpIZuhz3s6FuSzsKV5EzIqNgUwzts7HVRZ622/udIhaX8P7GZOj+R8sKvSRqMhpX91qzZamTpzn/TnLDBTXRYEFic1wouQUe5DtHt9p/SBIJ8/DbNvcMSSUbXPcphBQZuR9TRt7Uyhe70HhtpkVmtljsjyInH/",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.0157792,
+    "isActive": true,
+    "name": "Loom Network",
+    "symbol": "LOOM",
+    "stakingTypes": [
+      {
+        "rewardValue": 17,
+        "rewardFormula": "U2FsdGVkX19A13hJMCjuWaKJo1zEwExOSwRg8ZYDOzIu9Q1GsvagTWexnV0lfh1J8wEtfc0m0TLO/d8/Tr0mJuPHQMydGlaPBjeuse4lQCi4UQdhhThuo2TOceeJ9Yr5OY6OQISB5X9op/YV6/ypGkdCqu75eYzMmmjwhuT9Dx5tXXcPO2ow03O4DsW5iVk6dvX5EAmrNzDj3dsMJHmbC6moXc8Glf/fav63RfeCxuU=",
+        "providerFee": 0.15
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.04426234,
+    "isActive": true,
+    "name": "WAX",
+    "symbol": "WAXP",
+    "stakingTypes": [
+      {
+        "rewardValue": 4.211544566231174,
+        "rewardFormula": "U2FsdGVkX19HgeFJ0UmNhrtCcq3RtEKZRXz7F+usvmn41OfTyzB17Wb8/N74caXMyQXZdGx4EKd0chpfBpd5HirTdhmSRkLJ9Ib3sErS+DLvZQC7CWD+i8Q0UTWGYSjwtDJZF0sO6LSzmB/GlzPmfA==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.088904,
+    "isActive": false,
+    "name": "aelf",
+    "symbol": "ELF",
+    "stakingTypes": [
+      {
+        "rewardValue": 10,
+        "rewardFormula": "U2FsdGVkX1+3vGgnO/XSuYv0mJfhd06CXHzB4//6DcI=",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00297658,
+    "isActive": false,
+    "name": "Metahash",
+    "symbol": "MHC",
+    "stakingTypes": [
+      {
+        "rewardValue": 10,
+        "rewardFormula": "U2FsdGVkX1+7GYKXvxQX8PypqVPdK1PNBP7DxEJ6Jnk=",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00150811,
+    "isActive": true,
+    "name": "Trittium",
+    "symbol": "TRTT",
+    "stakingTypes": [
+      {
+        "rewardValue": 13.240707002524154,
+        "rewardFormula": "U2FsdGVkX19XnYQepnxujJxFSAjdtDsG8ocT3ETmgsRSb17lCKaGUK5iujb2ZXYfzCLY3xGcfzsTCx3dKCXAlpUQ41CHGTAQJkyjzmIveCa9V0CsmaU2RcZIhv91npe0fK2orcHNYyFGHX0mS5wWHWGusIVT77XD9MZvgbzc2ss=",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 21.646332044146348,
+        "rewardFormula": "U2FsdGVkX19lwAjGV6K6p7ZFZk7qHBkJBd3HUy0CsR/jv9LvkIhI3+a9TM/srGs1cEnUZ+l7aVCiDuS95G11f6l+19Ne0ql2IspzlY7Q+hcXpxIzlGlQXQqnFtzQzz4/DNLkjPhwbhI/qcm2B3mBRHdB/kFyFXZ5Baqlp22RT/1ktoyRya3tRtO7DmttWBwF",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 15.17978339244702,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.01092694,
+    "isActive": true,
+    "name": "IRISnet",
+    "symbol": "IRIS",
+    "stakingTypes": [
+      {
+        "rewardValue": 9.994954671818599,
+        "rewardFormula": "U2FsdGVkX1+kMGbXN+h8oopKdj7eoEPvbYZguJ+TK/Ip56JOHIKj9JlOs+bs7X71OIdtgtmjUEu4wMcPi4Z1jwyEQKKJQf61CmD19qNTMiPpo2mlbmR+eYqpUKxc3yr8rSczCJ4Jaq6Zoq8ZPMFVkX3lSmgzpfMhrFUVvJnR76xDiN7ZOfo+xcXW6nY0F9xd",
+        "providerFee": 0.1
+      },
+      {
+        "rewardValue": 11.105505190909556,
+        "rewardFormula": "U2FsdGVkX19R3OVWna0EWeokz/siNSi4iIJPuh5Jr9JGXcGjqndMhNoWrmICSBBM1Eota7ubX4FzruyTytWCsy7HG7smkKQygq8IAs70QWVOAEQFL8xaety/JMO88dU5e4qfpQ9CNMhzX4N9mQmyESBIir5JLPqFsCbqXtsNmsVB3iif20F85E77Vf9hNz9M",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": null,
+    "isActive": true,
+    "name": "Coda Protocol",
+    "symbol": "CODA",
+    "stakingTypes": [
+      {
+        "rewardValue": 10,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00391272,
+    "isActive": true,
+    "name": "IoTeX",
+    "symbol": "IOTX",
+    "stakingTypes": [
+      {
+        "rewardValue": 6.893955263480225,
+        "rewardFormula": "U2FsdGVkX184RztOLLAHonhZeA/ws2NENDPRjsqW9ospaLgehpq9bEBaI89B0HZ2pl4x7H5rjX58NCeDk8Z5OSGt5cKZne9HKjiJhjl+J4VGLNCzhDYVOAzpqCR2HMe7",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 8.370575457684161,
+        "rewardFormula": "U2FsdGVkX1/FGzBBnb6/n0EYC2V7aP69Fpc2EkJi7QdJgzjrWr/EQFjextchZUqHTAGh6McPluXlkD8qMTDmb/8tl+LeCvUxuEq1eM/d7QZYoDhduTUfa5qDjI2u9xcceGc6/Iqbectt5m5n2G9a/6U9hC1dAyrso9R9EQ4JElFMWtv/1KuOCei9PzJRg1lVcFdyzJX4ZonNmU0z5FNeIY7k6/EWwrDbLJJUio0rKvnMrrqHfM0wENPgBC01GOq8UH+2CIzbbxiN+rG8w71UH4OYu1YO8u3MhSLFD1OqH87cfX1bSrjHv88dsJFlEA4O",
+        "providerFee": 0.1
+      },
+      {
+        "rewardValue": 9.300639397426846,
+        "rewardFormula": "U2FsdGVkX18yx+wOrfTXJddhF49Cyuwb0fKhpBXRnpPz4oSZcxGITjJD3PslhBs51VaI7y/0sBPbNdbW1ZXqURsssH6Ae85LMlLhrEq1FUTO248BDIGV77ZE86LevgzL2lShBYMNnXQjx6bn5YzDHidKm+PAQHl1e0WLXh4SNqUS1hE4dhw2IuQ774p0Czmx+soiw7HQX0jKlu6NOVfChdsV6i9n91jhgaZ9nzPBzRUABqAZ9P0e9E2VOjHBjix3/3RklY/qgjr2ChSiu+rcX7lqmDKoPvr+DWujBqY61OUSQz3bPC/AfWaZ3/V0/sV7",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00412694,
+    "isActive": false,
+    "name": "nOS",
+    "symbol": "NOS",
+    "stakingTypes": []
+  },
+  {
+    "priceUsd": null,
+    "isActive": true,
+    "name": "NuCypher",
+    "symbol": "NU",
+    "stakingTypes": [
+      {
+        "rewardValue": 10,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 1,
+    "isActive": true,
+    "name": "Dai",
+    "symbol": "DAI",
+    "stakingTypes": [
+      {
+        "rewardValue": 1.5235671952291951,
+        "rewardFormula": "U2FsdGVkX1+a2VmmaPOSSGchzAXAEo2M8RQ2KZlyFOKz5pgbVldDbiPDRf7El39si3de78/7aVvqM8yfPvntGA==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 2.54,
+    "isActive": true,
+    "name": "Energi",
+    "symbol": "NRG",
+    "stakingTypes": [
+      {
+        "rewardValue": 15.229984163222685,
+        "rewardFormula": "U2FsdGVkX1+p3Z7fkPkbD9dkckGTppeYSDKOEjywK2tNrGarJS9jA5uKGzNbMtVO3/GHrJQJ2q8fk/ympN42RYJob3JQ2A3i1XDlNnoO1Q2AWKI1NfbDFcFFgvvqaplvhlt5eFgJ7FDvFHPaifnbWtcPjfdrBIPJJ+TCLbZZPcoi0OgQWyh6MR89ZtKF57zl",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 47.24012175428658,
+        "rewardFormula": "U2FsdGVkX1+r1CXuk/V/959EahVrRtX6q0+dPps/2TDjnsKILmwCVVjm54wO8CYZCO8mHOxx/tc4F+iIzzpYlVOTJ78fW/9OdeyZ8v1pklNNH/2CZ4YP9Eh92bSj8+K1VUcBiImq+jBanlTFJoj+evTpuFCQwKdGsSFX+uBEFwjaUU8+rufrwc7LfQpvdZx1",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.078879,
+    "isActive": true,
+    "name": "TokenPay",
+    "symbol": "TPAY",
+    "stakingTypes": [
+      {
+        "rewardValue": 23.10777297141611,
+        "rewardFormula": "U2FsdGVkX1/K7g01tbd8ciKBBWF0+b/NoKWdjnSpv7yjRK/k2hRjAIICjO0hCekPc6iW6dzRuIKL6+apYUKby+G63KIMjHVUMQUJbr2R8EWJiB4117VefhU+nN8PHDALjYIcK4dExRdDjSOWoMT/aQ==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.09025,
+    "isActive": false,
+    "name": "SpectreCoin",
+    "symbol": "XSPEC",
+    "stakingTypes": []
+  },
+  {
+    "priceUsd": 0.0000918,
+    "isActive": true,
+    "name": "Pikciochain",
+    "symbol": "PKC",
+    "stakingTypes": [
+      {
+        "rewardValue": 5,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.266178,
+    "isActive": true,
+    "name": "Theta",
+    "symbol": "THETA",
+    "stakingTypes": [
+      {
+        "rewardValue": 1,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.424561,
+    "isActive": true,
+    "name": "Radium",
+    "symbol": "RADS",
+    "stakingTypes": [
+      {
+        "rewardValue": 29.689243358316688,
+        "rewardFormula": "U2FsdGVkX19XWMv+003K0MMmu7m+TsUt+0fBFbgUIVKCq05lRScXCTro/EpqadH758juWKQNKFYv/Rm/btgVfXXL04nrBQKlwWYAyWecJdL0Acf89XhrmT1ceeuV5eamtOQP8ChJxM3LIjHWoYxWOM5NNlF6/b1fXqJf3f4XsHBVnbTd7meMnKIFomanB4vL",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00990755,
+    "isActive": false,
+    "name": "QLC Chain",
+    "symbol": "QLC",
+    "stakingTypes": [
+      {
+        "rewardValue": 5,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.01222988,
+    "isActive": false,
+    "name": "Bulwark",
+    "symbol": "BWK",
+    "stakingTypes": [
+      {
+        "rewardValue": 70,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.433038,
+    "isActive": true,
+    "name": "BitGreen",
+    "symbol": "BITG",
+    "stakingTypes": [
+      {
+        "rewardValue": 31.788219686402066,
+        "rewardFormula": "U2FsdGVkX19lLym6yYP0pHAuV5YvXtlX7Yqf0rSgqLpXtLiE/hIbvrnlzmU0k0sLq9wkeBFaZoRi/LWB4ajihuJGFH1fl61DnNnqcX1zmh5H9l6/M6fguVEHlp7GX7BLX27SGF9W7YaTDVZArI60iw==",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 44.47176971365901,
+        "rewardFormula": "U2FsdGVkX1/EiA52zYKk9qjEmC8IqGngr6EkmpiLF6MF3VINdJk7kxJ1/16X3jccNYs/tJbCvs/gZ4hZgTg+uPBnaoEP93hRDexqpwGkOpo6IvS6QRJJ9G1E18/olBjQ",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.069969,
+    "isActive": false,
+    "name": "Semux",
+    "symbol": "SEM",
+    "stakingTypes": []
+  },
+  {
+    "priceUsd": 0.00841249,
+    "isActive": false,
+    "name": "PotCoin",
+    "symbol": "POT",
+    "stakingTypes": [
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.253264,
+    "isActive": true,
+    "name": "Enigma",
+    "symbol": "ENG",
+    "stakingTypes": [
+      {
+        "rewardValue": 1,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.02262805,
+    "isActive": true,
+    "name": "Veil",
+    "symbol": "VEIL",
+    "stakingTypes": [
+      {
+        "rewardValue": 23.550476635254306,
+        "rewardFormula": "U2FsdGVkX19fOMy3mXXrmURcHy/cU02IeyLRXgoU44wfB8Q6HlOsIAbmONX7Wms6PwuH95tSNRRb4JZxdK9CrwQQe+cU5xQzz+27Hdp52n89uFYCJaGSmQlYwmPFiwfVSYxcVcZ38zCn48RzZMPcYZUVlVPK+Tei6jQKPMjuNuc=",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00909776,
+    "isActive": false,
+    "name": "Swarm",
+    "symbol": "SWM",
+    "stakingTypes": [
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.07714,
+    "isActive": false,
+    "name": "Nix Platform",
+    "symbol": "NIX",
+    "stakingTypes": []
+  },
+  {
+    "priceUsd": 0.00296575,
+    "isActive": false,
+    "name": "Quarkchain",
+    "symbol": "QKC",
+    "stakingTypes": []
+  },
+  {
+    "priceUsd": 0.01101245,
+    "isActive": false,
+    "name": "Orbs",
+    "symbol": "ORBS",
+    "stakingTypes": [
+      {
+        "rewardValue": 8,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 1.69,
+    "isActive": false,
+    "name": "I/O Coin",
+    "symbol": "IOC",
+    "stakingTypes": []
+  },
+  {
+    "priceUsd": 0.0224891,
+    "isActive": true,
+    "name": "V Systems",
+    "symbol": "VSYS",
+    "stakingTypes": [
+      {
+        "rewardValue": 12.146446825590882,
+        "rewardFormula": "U2FsdGVkX19IkbdbRz8UdAPlD/LxDr4AJppHUqR52f1wW6YeLZCMbNvDAxUT25Pg/pltaUjBXUu7wfT73E3zkwv11pY0doADqJxWnELVgaA6v74xgzo7gBysJ/+ydkyXBInItwc/Gc/txs7OydLHt18js9XM1GuLvOAwPBpPdqQ=",
+        "providerFee": 0.2
+      },
+      {
+        "rewardValue": 15.183058531988603,
+        "rewardFormula": "U2FsdGVkX1+pGCIirfhkivD4HyL/aYfdeqUidqxRxv+VX1JY5pCvfIa57KLrxeCr8VM7uz7deWQ8P4mcUVCChltQmF25bghroLTlmBp7n0tONpLni/4N2x+v4XB4Q0vAVliaprIt5ltAnIRGVNqsXv4OgVcWOR/b63rtNVT6Q1U=",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.096625,
+    "isActive": false,
+    "name": "Arcblock",
+    "symbol": "ABT",
+    "stakingTypes": []
+  },
+  {
+    "priceUsd": 0.00465156,
+    "isActive": false,
+    "name": "GINcoin",
+    "symbol": "GIN",
+    "stakingTypes": []
+  },
+  {
+    "priceUsd": 0.45871,
+    "isActive": false,
+    "name": "GXChain",
+    "symbol": "GXC",
+    "stakingTypes": []
+  },
+  {
+    "priceUsd": 0.177464,
+    "isActive": true,
+    "name": "Terra",
+    "symbol": "LUNA",
+    "stakingTypes": [
+      {
+        "rewardValue": 10.501915885490956,
+        "rewardFormula": "U2FsdGVkX1/S0J5RTRlskalY8R+/GzXONFXu9mr91QFuZ0j2xRJ7lb263R7Dv7+1",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 9.45172429694186,
+        "rewardFormula": "U2FsdGVkX1/QeWb4SvGjTWmkJCJkcei14QOk+NtJ6cAuxcB9+6BtNn2EUY01QVZT",
+        "providerFee": 0.1
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00040436,
+    "isActive": false,
+    "name": "Verasity",
+    "symbol": "VRA",
+    "stakingTypes": []
+  },
+  {
+    "priceUsd": 0.0159876,
+    "isActive": false,
+    "name": "Divi Project",
+    "symbol": "DIVI",
+    "stakingTypes": [
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      },
+      {
+        "rewardValue": 43.89409807557009,
+        "rewardFormula": null,
+        "providerFee": null
+      },
+      {
+        "rewardValue": 41.13530306015019,
+        "rewardFormula": null,
+        "providerFee": null
+      },
+      {
+        "rewardValue": 37.56378820189188,
+        "rewardFormula": null,
+        "providerFee": null
+      },
+      {
+        "rewardValue": 39.34954563102103,
+        "rewardFormula": null,
+        "providerFee": null
+      },
+      {
+        "rewardValue": 33.99227334363356,
+        "rewardFormula": null,
+        "providerFee": null
+      },
+      {
+        "rewardValue": 35.77803077276272,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00945576,
+    "isActive": false,
+    "name": "Gulden",
+    "symbol": "NLG",
+    "stakingTypes": []
+  },
+  {
+    "priceUsd": 0.03689994,
+    "isActive": true,
+    "name": "LTO Network",
+    "symbol": "LTO",
+    "stakingTypes": [
+      {
+        "rewardValue": 7.275128975909646,
+        "rewardFormula": "U2FsdGVkX1+Q70tKTO6uu+vDIDu7ctn5bjovjKrJYLnuER2z+OM9AIYNjHxssnLt9WkFfomakBFVPaEE9pVnkzi34WEG74KKhuTQo9CRO+gw58to4gxLlStsRU8p3K/W",
+        "providerFee": 0.035
+      },
+      {
+        "rewardValue": 7.538993757419322,
+        "rewardFormula": "U2FsdGVkX1+rMColbu1Q0V2WsgE0UTDcHclJyF+mldvVKaiaeK7vUNhDRRc+lS8eML8l1Mqs5aVmt/3SzmHdc/GXHew4DT1zcEf600B0+rOKppjjgwEIY0WouF52LOuz",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 2.66,
+    "isActive": true,
+    "name": "Tezos",
+    "symbol": "XTZ",
+    "stakingTypes": [
+      {
+        "rewardValue": 6.249776762031116,
+        "rewardFormula": "U2FsdGVkX1++XCy3YwyQ7riph1Js9Spulh43KuQaaaqxpG9z1/kGBZlxB4XY5K6X1eWXlh+nL4c4Li2SQDYVf5fjdH7LNBNDK6ZgvzndEhJIJODaemm2nsj+jmstVugnvDyMHbHO9wzMVdMNMfRUPELygMiPhDLE7RwSj4GMFyYuaX4dxBEdbo9CPGxtLSy0",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 5.624799085828005,
+        "rewardFormula": "U2FsdGVkX19eugzXX8EP1Jg8KOIQmnPiFNgkbbQ+05vcbr6ZUCpNkKuYB2Gdzb3SiG3Ei1q9BKEhuxHuaqlZVMf+8PdVbPIZA3FQTM9/PXTXRbqKXU0g5G7Rlw+0ARREkX0QbwDyOho0TE0Nt7v3DHwWQ/Z97ofMpQPIHyVPXLd8px2p2FID4eD3+LM5RHHg",
+        "providerFee": 0.1
+      }
+    ]
+  },
+  {
+    "priceUsd": 0,
+    "isActive": false,
+    "name": "COSS",
+    "symbol": "COSS",
+    "stakingTypes": []
+  },
+  {
+    "priceUsd": 0.00945926,
+    "isActive": true,
+    "name": "Enecuum",
+    "symbol": "ENQ",
+    "stakingTypes": [
+      {
+        "rewardValue": 30.412943986174717,
+        "rewardFormula": "U2FsdGVkX1/SBxJVyjGUB9wFIaUlawit/DPLCDK5mI0t4srU172nwjHnNJLKz3CTmGfvvn7O8ITC+awzg5qbvGMTeOBgc+17YRjfiptK2TzhqAxpxhItjglZQuE9jzXk",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.761264,
+    "isActive": true,
+    "name": "Synthetix Network Token",
+    "symbol": "SNX",
+    "stakingTypes": [
+      {
+        "rewardValue": 50.74088665284479,
+        "rewardFormula": "U2FsdGVkX1/AKOVaUkwqrLV53ybtvZXOJW6tCJde4/sE0ZONh5a1986VlYvZmojvxmtaGqBk588qU38+/xEMVbwqyTOGbm5pd+ZaagFtxJ8F0gvCr04XBbYi6ylBHe3OTHsOVDiueoJqvVphrShm9tabFOdKa/PbPIhIRPPvqqyWvVfHZkPack3xyZCQiwc57jmw96rO2qPJjxHHlWLoRjOdBv69JFGeAkTtUqaWVa2g+R4tNPggdsgJjpR3IfQolz5HcsxOl/0DU2O6JmK+SA==",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 8.74319601810404,
+        "rewardFormula": "U2FsdGVkX1+1EQI9rxfSBU+H3AA3kUHe5jB6DfrsV3Z8TjFNO0GxZFnUEaRoX4d94Ulk0U+gyIxw4kQCY1Uigw==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00328151,
+    "isActive": true,
+    "name": "Harmony",
+    "symbol": "ONE",
+    "stakingTypes": [
+      {
+        "rewardValue": 22.2404643340945,
+        "rewardFormula": "U2FsdGVkX1+dhzDBM7b7reBF3mN0NA0RdbfuDhUVmt5lpQYjXsTM0CCstoMCmjyYxeJ90NJ4d+PDZpeJDxe7FlCchw5PUFkr2mU5uIDagKrppqKvrjF5BTy84Vl3+WNk",
+        "providerFee": 0.1
+      },
+      {
+        "rewardValue": 24.711627037882778,
+        "rewardFormula": "U2FsdGVkX19OFqWCX+JhnS+T8zduBJsmqgCeEJlRTgB0Dcr9r8bExGff/Flhh3tJEfss49wsZxpz8nBsiTTox/G4xvM7v5RGfk3jXYyh0FXUtPmhF7BlSDBLBGPcjDvD",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00133533,
+    "isActive": true,
+    "name": "Bela",
+    "symbol": "BELA",
+    "stakingTypes": [
+      {
+        "rewardValue": 37.234174049039716,
+        "rewardFormula": "U2FsdGVkX18wiIYbX1l6Z2so7VMLHEXFchui17XoRbFhBA1yVguLvjA3l/Ph3ZuPum7OI4BSJA92ZV7wq4oD4Q84CSYMeCH3Urj72vsI+lAUW1eGlqxYHuN6EbZZvo5f",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00938494,
+    "isActive": false,
+    "name": "Cyber Miles",
+    "symbol": "CMT",
+    "stakingTypes": []
+  },
+  {
+    "priceUsd": 0.591971,
+    "isActive": true,
+    "name": "Solana",
+    "symbol": "SOL",
+    "stakingTypes": [
+      {
+        "rewardValue": 10,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": null,
+    "isActive": true,
+    "name": "NEAR Protocol",
+    "symbol": "NEAR",
+    "stakingTypes": [
+      {
+        "rewardValue": 10,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.671034,
+    "isActive": true,
+    "name": "Kava",
+    "symbol": "KAVA",
+    "stakingTypes": [
+      {
+        "rewardValue": 7.274483983063671,
+        "rewardFormula": "U2FsdGVkX19RBqjNV2OQ1hdR9lUF3HStQ8JZg5lY5hnNaIcg9G2/N6ZOWVyC6uicbSU0tkkmhRVAXv7CrVbVZ88oHZPbS7URAZDhH5VC5M6MDghkBpika7E+BxYhm5tjlMbJKI7Rlh7Hb9gBkfUBrZdQk8B+LcTTq3t4KmIndSbrmvTetQ7vg3kIYcZC9L/7",
+        "providerFee": 0.08
+      },
+      {
+        "rewardValue": 7.9070478076779045,
+        "rewardFormula": "U2FsdGVkX1+71Gmkstc09cAxr6YRzW2tsDwoywkIrpE2LJ9tEHiNIwZuzDmm0vyyncpRGTg2MevrgBiVPXHDmo2zVJacdWNR9QBV5MZ4cxZlvNDBXAFagLQHCCqk3EvNReK0NXq/I0WoDML5BpDFXGGB3YkKdCVHEMGJajayYuZAflPqDTyM/DqIMuMC2GGo",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.06914,
+    "isActive": true,
+    "name": "Crypto.com Coin",
+    "symbol": "CRO",
+    "stakingTypes": [
+      {
+        "rewardValue": 10,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.180157,
+    "isActive": true,
+    "name": "Telegram Open Network",
+    "symbol": "TON",
+    "stakingTypes": [
+      {
+        "rewardValue": 10,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": null,
+    "isActive": true,
+    "name": "Skale Labs",
+    "symbol": "SKALE",
+    "stakingTypes": [
+      {
+        "rewardValue": 10,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": null,
+    "isActive": true,
+    "name": "AVA",
+    "symbol": "AVA",
+    "stakingTypes": [
+      {
+        "rewardValue": 10,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.818855,
+    "isActive": true,
+    "name": "Celo",
+    "symbol": "cGLD",
+    "stakingTypes": [
+      {
+        "rewardValue": 6,
+        "rewardFormula": "U2FsdGVkX18/ehu/Wh7/MHKOLOO/ZUpnPhvNNCZeM1ZqCIj4EAoMOmTQR2LQ+KrtAJ0ApbMxZ+MOqBDLppF6Xg==",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 18,
+        "rewardFormula": "U2FsdGVkX1+59NTEWnJVirZSrIzE9ctSUBNqoezrOmqfOTXpUYZTW22rGRjhnbZLk/dH6IvxCWG6quT201fh8AOPHnwuauYjJOmppQ0CDigAk9FEsLQq2zQgYIbReuiE",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.01943707,
+    "isActive": true,
+    "name": "Matic Network",
+    "symbol": "MATIC",
+    "stakingTypes": [
+      {
+        "rewardValue": 10,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00112007,
+    "isActive": true,
+    "name": "Remme",
+    "symbol": "REM",
+    "stakingTypes": [
+      {
+        "rewardValue": 6.5543780002108925,
+        "rewardFormula": "U2FsdGVkX1/LmFuozxjACMWE8nrvseXIpDeD6lHacd/RT2u56dfJrfBqRcHCkDQdEFcvyqJm92YrImyhcEMCR69Ywek52oPaEoOKDKDOBwI3+SiGU+2tmc0MbW+NTjwZ",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 3.2764571550046826,
+        "rewardFormula": "U2FsdGVkX1+TUehFkhQFmro/D9NRT51VhJUDlGXh8yFvOP+qZ2qJyz3Qu8yEhOj5sMQFMajt4mqIwN0ncoD1e06RbIHTTotLZKBXnlsvQJXZXIcckwoRbLRCvacW9xGs",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 1,
+    "isActive": true,
+    "name": "Xar Network",
+    "symbol": "CSDT",
+    "stakingTypes": [
+      {
+        "rewardValue": 365.5493788442343,
+        "rewardFormula": "U2FsdGVkX19Fo6EQkWxTtCVARpQUkcT9OnQdpg6Yq7adsmusioi+m4L4LIFiwbLmnpres/DX3XuLw5CEU9QNGMIl5Vd+8bu6ZVOS0KbT7LE41h4mcqjkzjdKVFM4IOdGLrbqTEhmCbCHi7JdwMlWMg==",
+        "providerFee": 0.1
+      },
+      {
+        "rewardValue": 406.16597649359363,
+        "rewardFormula": "U2FsdGVkX1+TZ+xSTpRar4Kd/9VlneWf0F30omFUrne+tGaQv4BI9+N18rp0sbQ1l8EzrhithxE7+wKJ0+KjzpLrvei/k8iznbWq4eAMH1hDltWRZlP+WL9/pow2vEl4TXnLLTMsu6kkcZVj4LqT+A==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00489584,
+    "isActive": true,
+    "name": "Fantom",
+    "symbol": "FTM",
+    "stakingTypes": [
+      {
+        "rewardValue": 39.127581860760124,
+        "rewardFormula": "U2FsdGVkX19Ndc+AZhtaTcppvYvqKSQP+NP+A8TAaXBbZ+SKyP7aRI5+LT0RLL6lyaFHBn1nS3b5h9jYHH1BevRit6mRth/Qzn+w0K2YykxMnLDPHLpYHRk1UrIrPuzi",
+        "providerFee": 0.1
+      },
+      {
+        "rewardValue": 43.47509095640014,
+        "rewardFormula": "U2FsdGVkX19wpVoSamWOcD/SdUZQXIDINBtiWar1XX31DpnFnUGpvwlk06jiwZY+IqfY7qFgdBzGoKAXXbqV+bGmANpgET9naFlhXrWM8TaRAo6ix18UjExDdDZ2CZvO",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00235666,
+    "isActive": true,
+    "name": "Elrond",
+    "symbol": "ERD",
+    "stakingTypes": [
+      {
+        "rewardValue": 29.764538900698934,
+        "rewardFormula": "U2FsdGVkX19JHX/zyaqSsHWEWMm5kPdo6MhdJsJHdRj+VhVx1k0DLtDYl3Tzm5HKHqnUJS9z/9IxiliQdnHKUDfipNRDvnwU54ly6Gr7qCRkfGfAjaCq+3FB1FqX+w4tXfqiPZYU9Oes1hmy3+VA7ZX8YqJT9HmpWIdFnxvt9h/65e8oueA1XirSBg6ODhGmdKrGa0IFeOG6qa+XoScMh7qCUHfKYv7Z7vpKdMMvpwY120rAEIPf4FRvD4jfC9omatWbNCFaBu7NfZ7bSGBtzT31ngBU4u/4t5HB9R4UxLSsmEj6SKRejYVM42NSb5pR+Wupnmo1D5JvYvNSU34kyYwycqqo48QQT/QYlbcl0WRcRlBEGMsyGLthgyzHvliPoSMimxnGOxkz6NSWNUuyQ2m+Jb77i3Q/86LzTM6ozIsNqMlulsb2hCWM0Z9bl9tgwyUOfverIGatVLyp+wfD6Tw36LSwAsbYcV3VUWUsc+jr3wIzJMBH16s+oCsdMJu14vq+e4dob0iIrKFspObeAs3dh1JNWjkPL32ABFbqOeqLFiV3ascRzCgSkOJay+hhh9EJJmi+SYZhOKQq7KF2RQ==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00543395,
+    "isActive": true,
+    "name": "FLETA",
+    "symbol": "FLETA",
+    "stakingTypes": [
+      {
+        "rewardValue": 62.738382780375815,
+        "rewardFormula": "U2FsdGVkX18sPzeHptJ/WpdRpsDg7ZBESm/5m2Kf5F+zvIeTGIzKGLk00lAXj0hmeaC4yWJxGX8RhhOYaf8Mcw==",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 22.287176335532365,
+        "rewardFormula": "U2FsdGVkX1+rhbuoQFCtasG+aSQwUgwxXOr5y9WneIcfIKIz8COFWDyoCb0isuwGlRCuJcVatDfUYZ/6td8U7A==",
+        "providerFee": 0.075
+      },
+      {
+        "rewardValue": 33.070625984975344,
+        "rewardFormula": "U2FsdGVkX19Hgne3q3g++iCU+epSh7SOep7DeZZxHSbrlDsF0wTsDGeCr3LcGCIo",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 17.079602630166,
+        "rewardFormula": "U2FsdGVkX1+b25LdLqTyzZPYt0/byc62pLky8IodP08R6Sv7aQylvcqqIr0YmNlJ",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 26.7324689808346,
+        "rewardFormula": "U2FsdGVkX180UYuKnsOVtOQTminZ/NccDlv9rfbIABuEVOAkJUG6oxm8YVP6HzFG",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.0059261,
+    "isActive": false,
+    "name": "x42 Protocol",
+    "symbol": "x42",
+    "stakingTypes": [
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 5.89,
+    "isActive": true,
+    "name": "Kusama",
+    "symbol": "KSM",
+    "stakingTypes": [
+      {
+        "rewardValue": 6.641654766318814,
+        "rewardFormula": "U2FsdGVkX19BuE3LnTt/3KyItG6YwKDAHXZ6wVLUnz406etY1sRbX5mVzL9RQXkdS3+a6hY42zFoXqmzIOdVdCNfT34gkC50hMWsQ0H7WJ319L9EXD8S762IbNomnCuZ11ZYvYgNFufmprFC9DR9fL9jMCx2rvCpy1Zoapr29rQwgCyxUZGjUWBHuSXMdSC4tqhBdgvKhIRIqusZGRmP7RbZP+596kJcDTRh57Xty8zrVPzrIQCQ7PwFn9+iqk2O5w35WRzyJGbwBzGAGRvbP4ybNrCACZl1r5stmTXlq+UnWlloJb8pz7W3Mu4FHjE5PpoaiNF97YrF+FAs9L60QOlSp7OVQ/Ms3N5TkTaVFByXnhPbgDkbEZ1sEfmh/2xc9avmwIfLdK4bxq7IIvQApA==",
+        "providerFee": 0.1
+      },
+      {
+        "rewardValue": 7.3796164070209045,
+        "rewardFormula": "U2FsdGVkX1+w2hoincjBojtjj//l05kwyZ5qaC33SfAfUyBExbtE8cKxoSP2hk94pkQdOKY0ZYfGyydhMZyLSjBjDWfF+iAm++5jf3RRB4viiJOivT1rfrdxT4bNi6UuPRhon9T7JIrV85+TvnF/CMrzPH3AgdeWw42AvnvC62/smb9LdvngruqGdjXDXw3fZy3ADabn1FjPDygRtYqrLWMz5X6v4nyuIp8/ghKzDqo0uG1IeLlsLH3XbK5tiqD6SqJPfcLZufl6VWeZQJKdSHlPk/y2W9fEUt6uDFQyus6dvhkyOYp9WeTTjlrBHgknlp6O7xhjjWn56a5KSZWO6G13z2IhXnawNe4rQvwZfnDAlG/3pW4mRVU7+nc0S1rbcuPVhYVZY5AkEpbxLcltyw==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00129588,
+    "isActive": false,
+    "name": "Clay",
+    "symbol": "CLAY",
+    "stakingTypes": [
+      {
+        "rewardValue": 59.388468920652485,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00165605,
+    "isActive": false,
+    "name": "TTC",
+    "symbol": "TTC",
+    "stakingTypes": [
+      {
+        "rewardValue": 25.87842767082406,
+        "rewardFormula": null,
+        "providerFee": null
+      },
+      {
+        "rewardValue": 15.996050760930084,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.999186,
+    "isActive": true,
+    "name": "Neutrino",
+    "symbol": "USDN",
+    "stakingTypes": [
+      {
+        "rewardValue": 8.721270267240296,
+        "rewardFormula": "U2FsdGVkX18q9J1CWqsP0XM9/svJbXpz81f7qjBmGfczr9dIAUuDyDL9dNshlkM8h7Ggwfztd0CJ9Yd5LtH1a9E8pryNCag34lfW/SqQn/ixulhN/qu/fzf6VArSMm5N",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.02031711,
+    "isActive": true,
+    "name": "COTI",
+    "symbol": "COTI",
+    "stakingTypes": [
+      {
+        "rewardValue": 116.1377298042557,
+        "rewardFormula": "U2FsdGVkX1/IQq8bYgSCMfsZzjWh4QTOY6hmGLFGwoAnohGaRVBmtn0JRlwNWBvpa9ODJw2td4BkQhL9qSTXDaeYkDzwhMkhBZmACXFaFesaZ6p2gxKEZFik6MkcOv3x5u0lXCN5GQDv3KUdcqjeAacKPmTMmgTG4BXxUK2zZ9Y=",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 116.1377298042557,
+        "rewardFormula": "U2FsdGVkX1/ODh3PVROPDGIzNsXMsjsk2TGmoWx95+fYCpE15r587yhYiVpYzTz7qOTlwi3yP6KPsHkjvfmtPRy6xQkEPMXEMVArX4TMPJqEK+muw9qVvU6CoAzhljxnwqq7bYONnhQfMorGTh1Jjg==",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 116.1377298042557,
+        "rewardFormula": "U2FsdGVkX1+d31ByY/7c6jcWTIW/At+ojdxEQi/5llZ8PhFpKl5Iu9RYSE2C9YjXx/t+Oj0rt177KQwuDd1dio2b7104vTTqmxj3MfEgjmcYhyc2rl7rpl5KYEAPrTcjWGjVAqeSX1ovwxXhlnLMBw==",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 116.1377298042557,
+        "rewardFormula": "U2FsdGVkX1+mhM5bRSAXqpNBGDsjRtKBBrsmsHRW9D6m2idfVLH8hmPWtLu+Pk0eSt29M+Zwo5FAyZtWWC1bVrMtTGB/Jd0qEIwvTltfNOTKeV3g3DiIU/VbWUDfRK8I",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.8392227248961591,
+    "isActive": true,
+    "name": "Incognito",
+    "symbol": "PRV",
+    "stakingTypes": [
+      {
+        "rewardValue": 31.883746701225874,
+        "rewardFormula": "U2FsdGVkX19mmhRPSq4o80CqXzktXX2kqJAAhu6hwk0Pm4qdX/I5rJcEtRmjf/q89/fdyKAbWD1ukqLyXZh6V9ocBIKxbdqhfFzPDDbmmPWRYbj5/caT1loFAVMXPz4Ixt9AhTZqmONs+I0WnTAFOCeF1PRa5brfAMPBC5ppK3OgQNTktFC5Wlhwm+A3t2A5",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0,
+    "isActive": true,
+    "name": "Cyber",
+    "symbol": "CYB",
+    "stakingTypes": [
+      {
+        "rewardValue": 5.380985705025466,
+        "rewardFormula": "U2FsdGVkX18/uOajbMvo8ur1xe6xK2G2Zkj3Z1Q5TcKUwxwyKX6Y9doZK05pkqpONKwzcXTMjYjiXeq32eKWZ8xWDeaEBwEgOIRt7mveF4m+2d7MYPCBIBdKeaWFAzN5ZQUX2d+rUaSLYpb8jYzYtg==",
+        "providerFee": 0.1
+      },
+      {
+        "rewardValue": 5.978873005583852,
+        "rewardFormula": "U2FsdGVkX1+tp3a5bYsrcFR42P6IqPM+6k2eFNdTpEr4Y08L56/0CHhMCFu/3dRdYhvH0kOKqEO52ldnjC5aoR0u8mxU+kTmz/WFJ23ZUF9viwlJIGeuNSVUSynFV66JOAxvM48x9QweSZlSIdSkWA==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 317.77,
+    "isActive": true,
+    "name": "MakerDAO",
+    "symbol": "MKR",
+    "stakingTypes": [
+      {
+        "rewardValue": 0,
+        "rewardFormula": null,
+        "providerFee": null
+      },
+      {
+        "rewardValue": 0.12187881846893832,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.02298373,
+    "isActive": true,
+    "name": "Telos",
+    "symbol": "TLOS",
+    "stakingTypes": [
+      {
+        "rewardValue": 5.38683995994618,
+        "rewardFormula": "U2FsdGVkX19HCkMnPrytf84ZPcjDT9SHaPjs26x9spIdpg6J/JFPigYws7X9yj9OhdHQ4YKuLAG7rnWh2aSE9Q==",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 13.871087344732466,
+        "rewardFormula": "U2FsdGVkX1+gAQhNzuFuGymXkzLh+IYkVU97Y8ooZ5+uVcNGOe3t5qI+hBSpXH64TtQe2sv01VHuv6SOUAvq3eueeqqIM9DjkLoUDEWsJaSgWvctDMgLx1RoczG9ss4SvgFcrxkP6VFsXUGEjoU0bbf57hhEg8m3rwnTucLcuRY=",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 10.77367991989236,
+        "rewardFormula": "U2FsdGVkX19Y75Krr6tuDLcdoobGYaHBKWFnHVncQ7yEmJQ2yyhmXD3b6+66HO4MFjzodIdgMxhqf3mgTLONbQ==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.054821,
+    "isActive": false,
+    "name": "Bitcoin CZ",
+    "symbol": "BCZ",
+    "stakingTypes": []
+  },
+  {
+    "priceUsd": 0.03894769,
+    "isActive": true,
+    "name": "BitMax Token",
+    "symbol": "BTMX",
+    "stakingTypes": [
+      {
+        "rewardValue": 33.79648229824392,
+        "rewardFormula": "U2FsdGVkX181bWzeK+Wlwq9ZLdtDnxahl/qdiLFN3aVi6MuSq5Jh+y/X6duOuz0tvJLytMbW+eMYi5S5D6khTJ2lnjFnaWqNIZqoJCv/RiMN7UDdRnNB6lxt783uaoAJ",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 1.27,
+    "isActive": true,
+    "name": "ChainX",
+    "symbol": "PCX",
+    "stakingTypes": [
+      {
+        "rewardValue": 85.03283619648876,
+        "rewardFormula": "U2FsdGVkX182jm42sGx3GT7ZUmeMNnI7C61i3oB0QcUJCSaF/PQTfOnUPzsB/QnZdjeUb3YquH3cWtBuyVs1hMAZMNRf4XsdHhpGOOPAJxFsWps571Dpb3M1CLldUq4DSipSUUHkfO9v6/cotnXlAHw1UxvfYp6plycbUV5w64g+fTejsM0Ho1wjN/YrkJCWVPSD4G4Jw0bO2CMhRT+BYZXAoCKNvpgUdlu5vQgnQKY=",
+        "providerFee": 0.1
+      },
+      {
+        "rewardValue": 94.48092910720973,
+        "rewardFormula": "U2FsdGVkX1+zfM9waXTMChJm4m+/2BdNWjZs6/LvgX0d7HYEJEzm6ENzHe6t+tWNbqq0tBh92DYBDKxmLGqzOVz3lqHMd8cjxnek6Fc9cV/rP1drXviTD1K8r+n7wKAeADKjk2T/IXXrae5iAFCZB3PEPHwgISS4bkh9bTodSBzyn45MRRD3QTVzfWIjarCuo5OrJlca2REUxaM3vTrcREUoxmuB4vaNGlYx32Nn2s0=",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00004114,
+    "isActive": true,
+    "name": "Rapids",
+    "symbol": "RPD",
+    "stakingTypes": [
+      {
+        "rewardValue": 43.5962790368736,
+        "rewardFormula": "U2FsdGVkX19T8eTDzvMsrgy4U+THZRHEmsyVzCzhkRYYJK7PddqvwOeOy9Hw86MV16eDWWPD6jTfWpuM9fJRORlFmxuRiHbf2chgg14ZocrA8lvCoL1YuFWPEL1TQdda0ddjUH+Jgc2v7vi+7Wwvvw==",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 16.60251608939844,
+        "rewardFormula": "U2FsdGVkX1/BJ4S/OTs0+W6I/M1QaZgbK7HLTzsaIxQ1YDAHVUeObJTBhhSKafMsixCRwPIjtsyHVx5KsujmH9RGoRAUOODqHMs80kFLzkjYzaSjK1+6biUmo/08xM2Q",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00627513,
+    "isActive": false,
+    "name": "Edgeware",
+    "symbol": "EDG",
+    "stakingTypes": [
+      {
+        "rewardValue": 52.36922262159076,
+        "rewardFormula": null,
+        "providerFee": null
+      },
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0,
+    "isActive": true,
+    "name": "Oasis",
+    "symbol": "OASI",
+    "stakingTypes": [
+      {
+        "rewardValue": 15,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00425207,
+    "isActive": true,
+    "name": "CasperLabs",
+    "symbol": "CLX",
+    "stakingTypes": [
+      {
+        "rewardValue": 15,
+        "rewardFormula": "U2FsdGVkX1+SS9RiVufffnaKhP/1g33MnNoIPg3ZwLc=",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.03508387,
+    "isActive": true,
+    "name": "Credits",
+    "symbol": "CS",
+    "stakingTypes": [
+      {
+        "rewardValue": 10,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.01745238,
+    "isActive": true,
+    "name": "Chromia",
+    "symbol": "CHR",
+    "stakingTypes": [
+      {
+        "rewardValue": 20,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 1.11,
+    "isActive": true,
+    "name": "Ampleforth",
+    "symbol": "AMPL",
+    "stakingTypes": [
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.00669017,
+    "isActive": true,
+    "name": "Minter",
+    "symbol": "BIP",
+    "stakingTypes": [
+      {
+        "rewardValue": 58.549674837252105,
+        "rewardFormula": "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",
+        "providerFee": 0.1
+      },
+      {
+        "rewardValue": 65.05519426361344,
+        "rewardFormula": "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",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.335965,
+    "isActive": true,
+    "name": "0x",
+    "symbol": "ZRX",
+    "stakingTypes": [
+      {
+        "rewardValue": 1.2601256132867578,
+        "rewardFormula": "U2FsdGVkX1/OxL8xN0GcBWjvuvxU8TTVp+Nv/xt18qa5oar4jZxmivEZF1E4u1CYtPaEBBkAWzFk5+qhAoMFNw==",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 2.5265365049378543,
+        "rewardFormula": "U2FsdGVkX1+swQfm1HGoSNZtMDCngsIJRCff9M2RDuxbyXCE7x1cN5Ij2LBq1OP6el93yo0RAmZ9P3m9daflzKRrPzl2Pl2nMbs3mgT7WKxSeGpuFjgNSwMOl6g4hkVL",
+        "providerFee": null
+      },
+      {
+        "rewardValue": 0.3647587070267372,
+        "rewardFormula": "U2FsdGVkX1/LO1lhwUhYLi54HGlnmlzLPNxJbckDeZSqXxDJGRF8oZCuecJ6BzH72HFTuosxliMUfT8ZJhlAFJJv+7KQoc6zZRqTo8sM38MLU0m1SnBHhKUFoa/qCHvf",
+        "providerFee": 0.8556289583333334
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.15994,
+    "isActive": true,
+    "name": "Nexus",
+    "symbol": "NXS",
+    "stakingTypes": [
+      {
+        "rewardValue": 1.903616417297552,
+        "rewardFormula": "U2FsdGVkX1+ldE/JyPkwE6/MBXZTrdYbeF6DvCA5vt+g8DQrJYzIGSpm2P4ue9SPHiBYe77yGnaomOGBBTkTwZbGHt+IK6Oy2YxmJCefY/o=",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0,
+    "isActive": true,
+    "name": "Pocket Network",
+    "symbol": "POKT",
+    "stakingTypes": [
+      {
+        "rewardValue": 24.36,
+        "rewardFormula": "U2FsdGVkX19tZBIrQtFdaHhPecAuY0EV3f94lUkfo49aw3tr1GHi7Om9FNL2gVfAyZ/ZHe7gNs+MB7JZS9dFOXB0XX5BbTI6ctnWrMbiB3/dKatiPOObHl8L3bOUbB/h73MdIXJPG60OM6EuMT8qOA==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 2.11,
+    "isActive": true,
+    "name": "Keep",
+    "symbol": "KEEP",
+    "stakingTypes": [
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 1.72,
+    "isActive": true,
+    "name": "xDai",
+    "symbol": "STAKE",
+    "stakingTypes": [
+      {
+        "rewardValue": 15,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": null,
+    "isActive": true,
+    "name": "Nexus Mutual",
+    "symbol": "NXM",
+    "stakingTypes": [
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.99973,
+    "isActive": true,
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "stakingTypes": [
+      {
+        "rewardValue": 2.711228168925537,
+        "rewardFormula": "U2FsdGVkX18v3Hd3vhARxsVtL3tkSzv61w4ajF2uBFUhTdQ+3BnRo6n+xcMy7EYL3s1AzgYRbptu7e2Zf7dqjQ==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 199.48,
+    "isActive": true,
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "stakingTypes": [
+      {
+        "rewardValue": 0.5154999796337494,
+        "rewardFormula": "U2FsdGVkX1/DBE1Xyj7fmKI7fIZa09t3usq2nQBz/PV52vU6cpNJ7LgWGMspdTYyWGaMccJhEOyiUPcLdutpVQ==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.195508,
+    "isActive": true,
+    "name": "Basic Attention Token",
+    "symbol": "BAT",
+    "stakingTypes": [
+      {
+        "rewardValue": 0.021546678801872342,
+        "rewardFormula": "U2FsdGVkX1+4JofeMHuy28zjOFYFMcoDdDRR3OwkW3wR//jJ3IoSPlq+GZiXCJ7FnKV1fp4LglnE/lrbx2F+bA==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 1.05,
+    "isActive": true,
+    "name": "Sai",
+    "symbol": "SAI",
+    "stakingTypes": [
+      {
+        "rewardValue": 0.6367779734215825,
+        "rewardFormula": "U2FsdGVkX19uVHOIrnZ2hi4vz/y1app8dQ3+ga2gGpi5HStoVPJvJcyw+QYMklP5X5NukDQAOrdoUDGT+OUqsA==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 9092.81,
+    "isActive": true,
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "stakingTypes": [
+      {
+        "rewardValue": 0.2233704717684107,
+        "rewardFormula": "U2FsdGVkX181De/Jk/I5/DMyyIhzjP8h5KFlziH7vNQMQNlctanl/XGxkzEsew81UP4hcfqBAYQMLjFVGSye0w==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 12.32,
+    "isActive": true,
+    "name": "Augur",
+    "symbol": "REP",
+    "stakingTypes": [
+      {
+        "rewardValue": 0.30810450242590426,
+        "rewardFormula": "U2FsdGVkX19OL2W8RaDA8wNjxUkhRUA6DDq0RBT65n3vR0jNkdzJsMN0bgGGriPoDJAa+cIOsABf3ENpvCRImg==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 1,
+    "isActive": true,
+    "name": "Tether",
+    "symbol": "USDT",
+    "stakingTypes": [
+      {
+        "rewardValue": 3.9277500000000005,
+        "rewardFormula": "U2FsdGVkX18vJvdScNcbXujGB55qGN+N4AuZk16FHFzqqYQtDARQu+GC5VOyDikGHC3Xtzm/lkDZSFZNDLLS+w==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.056849,
+    "isActive": false,
+    "name": "Aave",
+    "symbol": "LEND",
+    "stakingTypes": [
+      {
+        "rewardValue": 0.0006,
+        "rewardFormula": "U2FsdGVkX1+WvZ+cQgq9HKxnU1Tgd5F2Q8h8siXLExDPRSkmMonHuoXE/6p/fV4z/BAXKn92Yme/4OKEK3VeUw==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 317.77,
+    "isActive": false,
+    "name": "Maker",
+    "symbol": "MKR",
+    "stakingTypes": [
+      {
+        "rewardValue": 0.4657,
+        "rewardFormula": "U2FsdGVkX1+mMuvrSWZJ9B+4/NhC8tUdZ+6m2MJ8fosMJ2yG5Z/6sXMC73RjBDa7vAh0u836LynYjEw54ejHng==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.999881,
+    "isActive": true,
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "stakingTypes": [
+      {
+        "rewardValue": 2.9070883108001357,
+        "rewardFormula": "U2FsdGVkX19veoxNzr6uNF5148oYWHus7Q7XNYSFon/acnXpkbNZR5loRUs6/Gtvnrc3CkvMN7hm5TIanu4Z5Q==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.03603331,
+    "isActive": true,
+    "name": "Decentraland",
+    "symbol": "MANA",
+    "stakingTypes": [
+      {
+        "rewardValue": 0.2965,
+        "rewardFormula": "U2FsdGVkX1+bZum81R112f695DenbbSvmwdaivpKX1FI7lebicUq/3/q4KbnV44MJYdSUipfD7C9VpgTf9vq6w==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.994007,
+    "isActive": true,
+    "name": "sUSD",
+    "symbol": "SUSD",
+    "stakingTypes": [
+      {
+        "rewardValue": 1.897,
+        "rewardFormula": "U2FsdGVkX1/FbFR2YPGwob2d9pSo3zXkenGeEb6XElQ+/SPUD/996s3jNBG/2OR+kW8ll23mSro6jH9sruklJw==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.612108,
+    "isActive": true,
+    "name": "Kyber Network",
+    "symbol": "KNC",
+    "stakingTypes": [
+      {
+        "rewardValue": 0.04350037532395908,
+        "rewardFormula": "U2FsdGVkX19aROhjMNXt47cdgGHHcTYLOBJbGtsrHz7HeSA9nmQn2zi0KHI8hVwzObYDGkdv+rEeWOtMayAuXA==",
+        "providerFee": null
+      }
+    ]
+  },
+  {
+    "priceUsd": 0.152113,
+    "isActive": false,
+    "name": "USDx",
+    "symbol": "USDX",
+    "stakingTypes": [
+      {
+        "rewardValue": null,
+        "rewardFormula": null,
+        "providerFee": null
+      }
+    ]
+  }
+]

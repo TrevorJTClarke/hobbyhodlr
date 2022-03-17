@@ -1,0 +1,17 @@
+{
+	"name": "account-rules",
+	"rules": [
+		 {
+			 "when": { "closure": "balanceBelowThreshold" },
+			 "then": "alertBalanceLow"
+		 },
+		 {
+			 "when": { "closure": "balanceLargeMovement" },
+			 "then": "alertBalanceLargeMovement"
+		 },
+		 {
+			 "when": { "closure": "balanceReward" },
+			 "then": "alertBalanceReward"
+		 }
+	]
+}

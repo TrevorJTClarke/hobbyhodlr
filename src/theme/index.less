@@ -1,0 +1,313 @@
+@import '~view-design/src/styles/index.less';
+
+// BRAND:
+// - Dark Green: #251B28
+// - Dark Grey: #453B42
+// - Light Beige: #C1CCA4
+// - Beige: #A3AA8B
+// - Medium Beige: #8D8D77
+// - Dark Beige: #8B6B5C
+//
+// Chart Colors:
+// - Dark Green: #051B15
+// - Medium Green: #084B30
+// - Bright Green: #35A960
+// - Yellow: #F0B00F
+// - Light Cream: #F3EAC7
+// - Medium Cream: #EBD5AF
+// - Dark Cream: #F1BE9B
+//
+// Inspiration: https://dribbble.com/shots/5457644-Mobile-application/attachments
+
+// ---------- ROOT CSS VARIABLES
+:root {
+  --body-color: hsla(0, 0%, 0%, 0.8);
+  --primary-color: #154C84;
+  --secondary-color: #3d3f49;
+  --bg: #eeeeec;
+  --bg-transparent: rgba(238, 238, 236, 0.9);
+  --bg-secondary: #f9fafc;
+  --bg-secondary-transparent: rgba(249, 250, 252, 0.6);
+  --bg-tertiary: #e8eef0;
+  --chart-zs-bg: rgba(0,0,0,0.05);
+
+
+  [data-theme="dark"] {
+    --body-color: #e8f1fa;
+    --primary-color: #0CB577;
+    --secondary-color: #F0B00F;
+    --bg: #251B28;
+    --bg-transparent: rgba(37, 27, 40, 0.9);
+    --bg-secondary: #453B42;
+    --bg-secondary-transparent: rgba(69, 59, 66, 0.6);
+    --bg-tertiary: #1a1618;
+    --chart-zs-bg: rgba(255,255,255,0.05);
+  }
+}
+
+// Overriding variables
+// ------------------------------
+
+// Color
+@primary-color          : #0CB577;
+@info-color             : #278ab0;
+@success-color          : #1dc690;
+@processing-color       : @primary-color;
+@warning-color          : #FDB147;
+@error-color            : #B30049;
+@normal-color           : #eaeae0;
+@link-color             : #014D4E;
+
+// Base
+@body-background        : var(--bg-secondary);
+@component-background   : var(--bg);
+@font-family            : Futura,Avenir,Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;
+@code-family            : Consolas,Menlo,Courier,monospace;
+@title-color            : #17233d;
+@text-color             : #515a6e;
+
+// Background color
+// @background-color-base        : #f7f7f7;  // base
+@background-color-base        : var(--bg) // #eeeeec;  // base
+@head-bg                      : #f9fafc;
+@table-thead-bg               : #f8f8f9;
+@table-td-stripe-bg           : #f8f8f9;
+@table-td-hover-bg            : #ebf7ff;
+@table-td-highlight-bg        : #ebf7ff;
+@menu-dark-title              : #515a6e;
+@menu-dark-active-bg          : #363e4f;
+@menu-dark-subsidiary-color   : rgba(255,255,255,.7);
+@menu-dark-group-title-color  : rgba(255,255,255,.36);
+
+// Shadow
+@shadow-color           : rgba(0, 0, 0, .2);
+@shadow-base            : @shadow-down;
+@shadow-card            : 0 1px 1px 0 rgba(0,0,0,.1);
+@shadow-up              : 0 -1px 6px @shadow-color;
+@shadow-down            : 0 1px 6px @shadow-color;
+@shadow-left            : -1px 0 6px @shadow-color;
+@shadow-right           : 1px 0 6px @shadow-color;
+
+// Button
+@btn-height-base        : 32px;
+@btn-height-large       : 40px;
+@btn-height-small       : 24px;
+
+// Layout and Grid
+@grid-columns                : 24;
+@grid-gutter-width           : 0;
+@layout-body-background      : transparent;
+@layout-header-background    : #515a6e;
+@layout-header-height        : 64px;
+@layout-header-padding       : 0 50px;
+@layout-footer-padding       : 24px 50px;
+
+// Input
+@input-height-base           : 32px;
+@input-height-large          : 40px;
+@input-height-small          : 24px;
+
+// Avatar
+@avatar-size-base: 32px;
+@avatar-size-lg: 40px;
+@avatar-size-sm: 24px;
+
+// ---------- continue regular mods
+
+html, body {
+  background: var(--bg-secondary);
+  min-height: 100vh;
+  color: var(--body-color);
+  overscroll-behavior: none;
+}
+
+a {
+  color: var(--primary-color);
+}
+
+.menu-item span {
+  display: inline-block;
+  overflow: hidden;
+  width: 69px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  vertical-align: bottom;
+  transition: width .2s ease .2s;
+}
+
+.menu-item i {
+  transform: translateX(0px);
+  transition: font-size .2s ease, transform .2s ease;
+  vertical-align: middle;
+  font-size: 16px;
+}
+
+.input-time {
+  border-radius: 3px;
+  border: 1px solid #dcdee2;
+  padding: 5px;
+  width: 100%;
+}
+
+.ivu-menu-light {
+  background: var(--bg-secondary);
+}
+.ivu-menu-horizontal.ivu-menu-light::after {
+  background: transparent;
+}
+
+.ivu-menu-horizontal {
+  line-height: 52px;
+  height: 54px !important;
+  background: transparent;
+}
+.ivu-menu-light.ivu-menu-horizontal .ivu-menu-item,
+.ivu-menu-light.ivu-menu-horizontal .ivu-menu-submenu {
+  color: var(--body-color);
+  border-bottom: 0;
+  border-top: 2px solid transparent;
+}
+.ivu-menu-light.ivu-menu-horizontal .ivu-menu-item-active,
+.ivu-menu-light.ivu-menu-horizontal .ivu-menu-submenu-active,
+.ivu-menu-light.ivu-menu-horizontal .ivu-menu-item:hover,
+.ivu-menu-light.ivu-menu-horizontal .ivu-menu-submenu:hover {
+  color: var(--primary-color);
+  border-bottom: 0;
+  border-top: 2px solid var(--primary-color);
+}
+
+
+.ivu-menu-item ivu-menu-item-active ivu-menu-item-selected,
+.ivu-menu-light.ivu-menu-vertical .ivu-menu-item-active:not(.ivu-menu-submenu) {
+  color: #13695A;
+}
+.ivu-menu-light.ivu-menu-vertical .ivu-menu-item-active:not(.ivu-menu-submenu):after {
+  background: #2FAD98;
+}
+
+.layout-header-bar {
+  background: var(--bg-secondary-transparent);
+  // box-shadow: 0 1px 1px rgba(0,0,0,.1);
+  display: flex;
+  position: fixed !important;
+  z-index: 999;
+  width: 100%;
+  top: 0;
+}
+.ivu-layout-header {
+  height: 54px;
+  line-height: 54px;
+}
+
+.ivu-layout-content {
+  margin: 75px 20px 20px !important;
+}
+
+.ivu-drawer-body {
+  padding: 0;
+}
+
+.responsive-card {
+  padding-left: 10px;
+}
+.responsive-card:first-of-type {
+  padding-right: 10px;
+  padding-left: 0px;
+}
+
+.ivu-avatar-large {
+  min-width: 40px;
+}
+
+.ivu-tooltip {
+  text-transform: none;
+}
+
+.ivu-tooltip-inner.ivu-tooltip-inner-with-width {
+  word-break: break-word;
+}
+
+.ivu-card {
+  background: var(--bg);
+}
+
+.ivu-card.ivu-card-tertiary {
+  background: var(--bg-tertiary);
+}
+
+.ivu-btn-ghost.ivu-btn-dashed,
+.ivu-btn-ghost.ivu-btn-default {
+  color: var(--body-color);
+}
+
+.ivu-modal-header,
+.ivu-modal-footer { border-color: var(--bg-secondary); }
+.ivu-modal-content {
+  background-color: var(--bg);
+}
+.ivu-modal-header p, .ivu-modal-header-inner {
+  color: var(--body-color);
+}
+
+.ivu-input,
+.ivu-select-selection,
+.ivu-input-number,
+.ivu-input-number-input {
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--bg-secondary);
+  color: var(--body-color);
+}
+
+.ivu-tabs {
+  color: var(--body-color);
+}
+
+.ivu-tabs-bar {
+  border-color: var(--bg-secondary);
+}
+
+.ivu-divider-horizontal.ivu-divider-with-text-center,
+.ivu-divider-horizontal.ivu-divider-with-text-left,
+.ivu-divider-horizontal.ivu-divider-with-text-right {
+  color: var(--body-color);
+}
+
+.ivu-divider-horizontal.ivu-divider-with-text-center::before,
+.ivu-divider-horizontal.ivu-divider-with-text-left::before,
+.ivu-divider-horizontal.ivu-divider-with-text-right::before,
+.ivu-divider-horizontal.ivu-divider-with-text-center::after,
+.ivu-divider-horizontal.ivu-divider-with-text-left::after,
+.ivu-divider-horizontal.ivu-divider-with-text-right::after {
+  border-color: var(--bg-secondary);
+}
+
+.ivu-collapse-simple,
+.ivu-collapse-content {
+  background-color: transparent;
+}
+
+.ivu-collapse > .ivu-collapse-item > .ivu-collapse-header,
+.ivu-collapse-content {
+  color: var(--body-color);
+}
+
+.ivu-collapse,
+.ivu-collapse > .ivu-collapse-item {
+  border-color: var(--bg-secondary);
+}
+
+.ivu-spin-fix {
+  background-color: var(--bg-transparent);
+}
+
+@media (max-width: 600px) {
+  .responsive-card,
+  .responsive-card:first-of-type {
+    padding: 0 0 20px;
+    width: 100%;
+  }
+
+  .ivu-layout-content {
+    margin: 65px 5px 20px !important;
+  }
+}

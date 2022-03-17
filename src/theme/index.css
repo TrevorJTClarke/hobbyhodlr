@@ -1,0 +1,83 @@
+html, body {
+  background: #f5f7f9;
+}
+
+.menu-item span {
+  display: inline-block;
+  overflow: hidden;
+  width: 69px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  vertical-align: bottom;
+  transition: width .2s ease .2s;
+}
+
+.menu-item i {
+  transform: translateX(0px);
+  transition: font-size .2s ease, transform .2s ease;
+  vertical-align: middle;
+  font-size: 16px;
+}
+
+.input-time {
+  border-radius: 3px;
+  border: 1px solid #dcdee2;
+  padding: 5px;
+  width: 100%;
+}
+
+.ivu-menu-horizontal {
+  line-height: 52px;
+  height: 55px !important;
+}
+
+.ivu-menu-item ivu-menu-item-active ivu-menu-item-selected,
+.ivu-menu-light.ivu-menu-vertical .ivu-menu-item-active:not(.ivu-menu-submenu) {
+  color: #13695A;
+}
+
+.ivu-menu-light.ivu-menu-vertical .ivu-menu-item-active:not(.ivu-menu-submenu):after {
+  background: #2FAD98;
+}
+
+.layout-header-bar {
+  background: #fff;
+  box-shadow: 0 1px 1px rgba(0,0,0,.1);
+  display: flex;
+  position: fixed !important;
+  z-index: 999;
+  width: 100%;
+  top: 0;
+}
+.ivu-layout-header {
+  height: 54px;
+  line-height: 54px;
+}
+
+.ivu-layout-content {
+  margin: 85px 20px 20px !important;
+}
+
+.ivu-drawer-body {
+  padding: 0;
+}
+
+.responsive-card {
+  padding-left: 10px;
+}
+.responsive-card:first-of-type {
+  padding-right: 10px;
+  padding-left: 0px;
+}
+
+@media (max-width: 600px) {
+  .responsive-card,
+  .responsive-card:first-of-type {
+    padding: 0 0 20px;
+    width: 100%;
+  }
+
+  .ivu-layout-content {
+    margin: 65px 5px 20px !important;
+  }
+}

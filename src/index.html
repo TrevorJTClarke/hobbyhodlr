@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <title>Hobby Hodlr</title>
+  <link rel='apple-touch-icon' sizes='150x150' href='/icon/hobby_hodlr_logo_150.png'>
+  <link rel='apple-touch-icon' sizes='180x180' href='/icon/hobby_hodlr_logo_180.png'>
+  <link rel='apple-touch-icon' sizes='192x192' href='/icon/hobby_hodlr_logo_192.png'>
+  <link rel='apple-touch-icon' sizes='512x512' href='/icon/hobby_hodlr_logo_512.png'>
+  <!--[if IE]><link rel="icon" type="image/png" sizes="32x32" href="/icon/hobby_hodlr_logo_32.png"><![endif]-->
+  <link rel='icon' type=image/png sizes='16x16' href='/icon/hobby_hodlr_logo_16.png'>
+  <link rel='mask-icon' href='/icon/hobby_hodlr_logo_favicon.svg' color='#393939'>
+  <link rel='shortcut icon' href='/icon/hobby_hodlr_logo_favicon.ico'>
+  <link rel='shortcut icon' href='/icon/hobby_hodlr_logo_favicon.svg'>
+  <meta name='msapplication-TileColor' content='#393939'>
+  <meta name='msapplication-config' content='/icon/browserconfig.xml'>
+  <meta name='theme-color' content='#393939'>
+  <link rel='manifest' href='/icon/manifest.json'>
+  <style>head, body {margin:0px;padding:0px;}</style>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    // Add dark / light detection that runs before Vue.js load. Borrowed from overreacted.io
+    (function() {
+      window.__onThemeChange = function() {};
+      function setTheme(newTheme) {
+        window.__theme = newTheme;
+        preferredTheme = newTheme;
+        document.body.setAttribute('data-theme', newTheme);
+        window.__onThemeChange(newTheme);
+      }
+
+      var preferredTheme;
+      try {
+        preferredTheme = localStorage.getItem('theme');
+      } catch (err) { }
+
+      window.__setPreferredTheme = function(newTheme) {
+        setTheme(newTheme);
+        try {
+          localStorage.setItem('theme', newTheme);
+        } catch (err) {}
+      }
+
+      var darkQuery = window.matchMedia('(prefers-color-scheme: dark)');
+
+      darkQuery.addListener(function(e) {
+        window.__setPreferredTheme(e.matches ? 'dark' : 'light');
+      });
+
+      setTheme(preferredTheme || (darkQuery.matches ? 'dark' : 'light'));
+    })();
+  </script>
+</body>
+</html>

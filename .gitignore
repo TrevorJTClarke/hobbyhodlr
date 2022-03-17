@@ -1,0 +1,15 @@
+*.badideas
+node_modules
+.env
+.editorconfig
+dump.rdb
+
+jwtRS256.key
+jwtRS256.key.pub
+
+# Docker data file
+data
+
+/dist
+dist/
+dist/*

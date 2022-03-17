@@ -1,0 +1,11 @@
+{
+    "name": "Hobby Hodlr",
+    "short_name": "HODLR",
+    "icons": [{
+        "src": "/static/icon/hobby_hodlr_logo_512.png",
+        "sizes": "512x512"
+    }],
+    "background_color": "#393939",
+    "theme_color": "#393939",
+    "display": "fullscreen"
+}

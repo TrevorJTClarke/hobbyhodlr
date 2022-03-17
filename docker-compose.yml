@@ -1,0 +1,44 @@
+version: "3.1"
+services:
+  app:
+    container_name: hobbyhodlr
+    image: hobbyhodlr/portfolio:latest
+    restart: always
+    build: .
+    ports:
+      - "2000:2000"
+    depends_on:
+      - mongo
+    env_file: secrets/.env
+    networks:
+      - app-network
+    environment:
+      - MONGO_HOSTNAME=mongo
+      - WAIT_HOSTS=mongo:27017
+      - DOCKER=true
+    secrets:
+      - jwtRS256.key
+      - jwtRS256.key.pub
+  mongo:
+    container_name: mongo
+    image: mongo:latest
+    env_file: secrets/.env
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=$MONGO_USERNAME
+      - MONGO_INITDB_ROOT_PASSWORD=$MONGO_PASSWORD
+      - MONGO_INITDB_DATABASE=$MONGO_AUTH_TABLE
+    volumes:
+      - ./init-mongo.sh:/docker-entrypoint-initdb.d/init-mongo.sh
+      - dbdata:/data/db
+    networks:
+      - app-network
+secrets:
+  jwtRS256.key:
+    file: ./secrets/jwtRS256.key
+  jwtRS256.key.pub:
+    file: ./secrets/jwtRS256.key.pub
+networks:
+  app-network:
+    driver: bridge
+volumes:
+  dbdata:

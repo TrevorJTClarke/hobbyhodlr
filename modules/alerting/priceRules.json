@@ -1,0 +1,21 @@
+{
+	"name": "price-rules",
+	"rules": [
+		 {
+				"when": "priceAllTimeChange",
+				"then": "alertPriceAllTimeChange"
+		 },
+		 {
+			 "when": { "closure": "percentChangeHourly" },
+			 "then": "alertPricePercentHourly"
+		 },
+		 {
+			 "when": { "closure": "percentChangeDaily" },
+			 "then": "alertPricePercentDaily"
+		 },
+		 {
+			 "when": { "closure": "percentChangeRare" },
+			 "then": "alertPricePercentRare"
+		 }
+	]
+}

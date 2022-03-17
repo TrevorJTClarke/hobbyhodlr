@@ -1,0 +1,8 @@
+*.badideas
+node_modules
+npm-debug.log
+Dockerfile
+.env
+jwtRS256.*
+.gitignore
+secrets
